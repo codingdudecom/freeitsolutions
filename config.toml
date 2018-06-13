@@ -1,4 +1,4 @@
-title = "Airspace for Hugo"
+title = "Free IT Solutions - online solutions for IT problems"
 baseURL = "http://www.freeitsolutions.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
@@ -57,8 +57,8 @@ publishDir = "docs"
 
   [params.slider]
     enable = true
-    title = "A digital marketing &amp; design agency"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    title = "Having an IT related problem?"
+    subtitle = "For every problem there is a solution. We gather free online solutions for various problems and offer them to yo for free"
 
   [params.wrapper]
     enable = true
