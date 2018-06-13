@@ -3,7 +3,6 @@ title: "<strong>Search Engine Optimization:</strong> Online Keyword Suggestion T
 date: 2018-06-12T13:50:22+03:00
 author: John Negoita
 category: seo
-draft: false
 ---
 
 Here's the truth:

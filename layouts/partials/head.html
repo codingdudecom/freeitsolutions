@@ -14,7 +14,7 @@
 {{ partial "favicon.html" . }}
 
 
-<title>{{ .Title }}</title>
+<title>{{ replaceRE "<.*?>" "" .Title }}</title>
 
 {{ .Hugo.Generator }}
 

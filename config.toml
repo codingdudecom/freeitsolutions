@@ -68,9 +68,9 @@ publishDir = "docs"
       label = "SEO Solutions"
       url = "/seo/"
 
-    [[params.slider.button]]
-      label = "Web Design Solutions"
-      url = "#"
+    #[[params.slider.button]]
+    #  label = "Web Design Solutions"
+    #  url = "#"
 
   [params.wrapper]
     enable = true
@@ -114,7 +114,7 @@ publishDir = "docs"
     [params.contact.box]
       title = "Stop by for a visit"
       address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
+      email = "Email: info@freeitsolutions.com.com"
+      phone = ""
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
