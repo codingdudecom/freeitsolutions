@@ -1,5 +1,5 @@
 title = "Airspace for Hugo"
-baseURL = "https://www.example.com"
+baseURL = "https://codingdudecom.github.io/freeitsolutions/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 publishDir = "docs"
