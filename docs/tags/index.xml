@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Airspace for Hugo</title>
-    <link>https://codingdudecom.github.io/freeitsolutions/tags/</link>
+    <link>http://www.freeitsolutions.com/tags/</link>
     <description>Recent content in Tags on Airspace for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://codingdudecom.github.io/freeitsolutions/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.freeitsolutions.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go</title>
-      <link>https://codingdudecom.github.io/freeitsolutions/tags/go/</link>
+      <link>http://www.freeitsolutions.com/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://codingdudecom.github.io/freeitsolutions/tags/go/</guid>
+      <guid>http://www.freeitsolutions.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://codingdudecom.github.io/freeitsolutions/tags/golang/</link>
+      <link>http://www.freeitsolutions.com/tags/golang/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://codingdudecom.github.io/freeitsolutions/tags/golang/</guid>
+      <guid>http://www.freeitsolutions.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://codingdudecom.github.io/freeitsolutions/tags/hugo/</link>
+      <link>http://www.freeitsolutions.com/tags/hugo/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://codingdudecom.github.io/freeitsolutions/tags/hugo/</guid>
+      <guid>http://www.freeitsolutions.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>https://codingdudecom.github.io/freeitsolutions/tags/ipsum/</link>
+      <link>http://www.freeitsolutions.com/tags/ipsum/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://codingdudecom.github.io/freeitsolutions/tags/ipsum/</guid>
+      <guid>http://www.freeitsolutions.com/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://codingdudecom.github.io/freeitsolutions/tags/programming/</link>
+      <link>http://www.freeitsolutions.com/tags/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://codingdudecom.github.io/freeitsolutions/tags/programming/</guid>
+      <guid>http://www.freeitsolutions.com/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>https://codingdudecom.github.io/freeitsolutions/tags/theme/</link>
+      <link>http://www.freeitsolutions.com/tags/theme/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://codingdudecom.github.io/freeitsolutions/tags/theme/</guid>
+      <guid>http://www.freeitsolutions.com/tags/theme/</guid>
       <description></description>
     </item>
     
