@@ -118,3 +118,6 @@ publishDir = "docs"
       phone = ""
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
+
+[params.google]
+  analytics="UA-6044359-2"
