@@ -1,0 +1,74 @@
+ .italic {
+   font-style: italic;
+ }
+
+ .bold {
+   font-weight: bold;
+ }
+
+ .center-text {
+   text-align: center;
+ }
+
+.post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:link, .post-area a:visited {
+  font-size: 30px;
+  color: #333;
+}
+
+.post-area a:hover {
+  color: #0D0017;
+}
+
+#intro .block h2{
+  font-weight: bold;
+}
+
+#intro .block p, #intro .block li{
+  font-size:20px;
+  text-align: justify;
+}
+
+#intro .block li{
+  font-weight: bold;
+  color: #7B7B7B;
+  margin-left: 2em;
+}
+
+#intro .bloc ul li{
+  list-style: square;
+}
+
+.post .post-info-wrapper p{
+  text-align: center!important;
+}
+
+.post h1{
+  text-align: center;
+  font-weight: 300;
+}
+
+.post h1 strong{
+  display: block;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 2em;
+}
+
+blockquote {
+  background-color: rgba(83,206,122,0.5);
+  padding: 3%;
+}
+
+blockquote p{
+  color: #3D7B51!important;
+  line-height: 1.7em;
+  font-size: 1.5em!important;  
+}

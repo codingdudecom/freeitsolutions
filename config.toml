@@ -6,18 +6,22 @@ publishDir = "docs"
 
 [menu]
 
-  [[menu.header]]
-    weight = 2
-    name = "Work"
-    url = "/work"
-  [[menu.header]]
-    weight = 3
-    name = "Blog"
-    url = "/blog"
+  #[[menu.header]]
+  #  weight = 2
+  #  name = "Work"
+  #  url = "/work"
+  #[[menu.header]]
+  #  weight = 3
+  #  name = "Blog"
+  #  url = "/blog"
+  #[[menu.header]]
+  #  weight = 4
+  #  name = "Service"
+  #  url = "/service"
   [[menu.header]]
     weight = 4
-    name = "Service"
-    url = "/service"
+    name = "SEO"
+    url = "/seo"  
   [[menu.header]]
     weight = 5
     name = "Contact"
@@ -31,18 +35,18 @@ publishDir = "docs"
     weight = 2
     name = "Contact us"
     url = "#"
-  [[menu.footer]]
-    weight = 3
-    name = "How it works"
-    url = "#"
-  [[menu.footer]]
-    weight = 4
-    name = "Blog"
-    url = "#"
-  [[menu.footer]]
-    weight = 5
-    name = "Terms"
-    url = "#"
+  #[[menu.footer]]
+  #  weight = 3
+  #  name = "How it works"
+  #  url = "#"
+  #[[menu.footer]]
+  #  weight = 4
+  #  name = "Blog"
+  #  url = "#"
+  #[[menu.footer]]
+  #  weight = 5
+  #  name = "Terms"
+  #  url = "#"
 
 # The site's parameters
 [params]
@@ -60,21 +64,34 @@ publishDir = "docs"
     title = "Having an IT related problem?"
     subtitle = "For every problem there is a solution. We gather free online solutions for various problems and offer them to yo for free"
 
+    [[params.slider.button]]
+      label = "SEO Solutions"
+      url = "/seo/"
+
+    [[params.slider.button]]
+      label = "Web Design Solutions"
+      url = "#"
+
   [params.wrapper]
     enable = true
     title = "About Us"
-    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+    italic = "Web developers, programmers, graphic and web designers"
+    paragraph = "Wouldn't it be nice to have all your favorite online tools in one place? We are IT, free IT solutions"
 
   [params.blog]
     enable = true
     title = "Get The Latest On What We're doing"
     subtitle = "Catch up with us, anytime and anywhere"
 
+  [params.seo]
+    enable = false
+    title = "Online SEO Tools"
+    subtitle = "Here's a list of online SEO tools that you can use for free"
+
   [params.feature]
     enable = true
     title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    content = "Always looking for top notch online tools. We think that the internet is your friend. It's filled with usefull online tools for various problems. We are trying to collect these nuggets and provide them to you in only one place"
     [params.feature.button]
       caption = "View Works"
       url = "#"
