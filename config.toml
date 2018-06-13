@@ -1,0 +1,5 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Hugo Smashing Theme"
+theme = "gohugo-smashing"
+googleAnalytics = ""
