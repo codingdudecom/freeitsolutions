@@ -72,3 +72,30 @@ blockquote p{
   line-height: 1.7em;
   font-size: 1.5em!important;  
 }
+
+#slider{
+  padding-bottom: 0;
+}
+
+
+input#search{
+  width: 100%;
+  color: #444;
+  padding:0.5em;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+ul#results {
+    display: flex!important;
+    flex-direction: column;
+    max-width: 1170px;
+    justify-content: center;
+    margin: 2em auto;
+}
+
+ul#results li a{
+    font-size: 28px;
+    line-height: 1.7em;
+}

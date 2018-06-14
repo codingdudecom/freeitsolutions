@@ -7,13 +7,20 @@
           <h1 class="animated fadeInUp text-uppercase">{{ .Site.Params.slider.title | safeHTML }}</h1>
           <p class="animated fadeInUp">{{ .Site.Params.slider.subtitle | safeHTML }}</p>
           <p class="animated fadeInUp">
+            {{ partial "search.html" . }}
+          </p>          
+          <p class="animated fadeInUp">
             {{ range .Site.Params.slider.button }}
             <a class="btn btn-lg btn-default btn-call-to-action" href="{{ .url }}">{{ .label | safeHTML}}</a>
             {{ end }}          
           </p>
+
           {{.File}}
         </div>
       </div>
     </div>
   </div>
 </section>
+
+   <ul id="results">
+    </ul>

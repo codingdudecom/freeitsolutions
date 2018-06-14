@@ -1,0 +1,28 @@
+{
+  "name": "freeitsolutions",
+  "version": "1.0.0",
+  "description": "Free IT Solutions Website",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingdudecom/freeitsolutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingdudecom/freeitsolutions/issues"
+  },
+  "homepage": "https://github.com/codingdudecom/freeitsolutions#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "string": "^3.3.3",
+    "toml": "^2.3.3",
+    "yamljs": "^0.3.0"
+  }
+}

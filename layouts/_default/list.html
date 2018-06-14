@@ -11,6 +11,7 @@
 
 	<main>
 		{{ range .Data.Pages }}
+
 		<div class="post-area">
 			<a href="{{ .Permalink }}" class="bold">{{ .Title | safeHTML}}</a>
 			<p class="post-date">{{ .Date.Format .Site.Params.date_format }}</p>

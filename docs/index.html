@@ -110,16 +110,138 @@
           <h1 class="animated fadeInUp text-uppercase">Having an IT related problem?</h1>
           <p class="animated fadeInUp">For every problem there is a solution. We gather free online solutions for various problems and offer them to yo for free</p>
           <p class="animated fadeInUp">
+            	
+    <input id="search" type="text" placeholder="search free online tools eg: seo, html, etc"/>
+    
+ 
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.2.1/lunr.min.js"></script>
+    <script type="text/javascript">
+    var lunrIndex,
+        $results,
+        pagesIndex;
+
+    
+    function initLunr() {
+        
+        $.getJSON("js/lunr/PagesIndex.json")
+            .done(function(index) {
+                pagesIndex = index;
+                console.log("index:", pagesIndex);
+
+                
+                
+                lunrIndex = lunr(function() {
+                    this.field("title", {
+                        boost: 10
+                    });
+                    this.field("tags", {
+                        boost: 5
+                    });
+                    this.field("content");
+
+                    
+                    this.ref("href");
+
+                    
+                    pagesIndex.forEach(function(page) {
+	                    this.add(page);
+	                },this);
+                });
+
+                
+                
+            })
+            .fail(function(jqxhr, textStatus, error) {
+                var err = textStatus + ", " + error;
+                console.error("Error getting Hugo index flie:", err);
+            });
+    }
+
+    
+    function initUI() {
+        $results = $("#results");
+        $("#search").keyup(function() {
+            $results.empty();
+
+            
+            var query = $(this).val();
+            if (query.length < 2) {
+                return;
+            }
+
+            var results = search(query);
+
+            renderResults(results);
+        });
+    }
+
+    
+
+    function search(query) {
+        
+        
+        
+        
+        
+        return lunrIndex.search(query).map(function(result) {
+                return pagesIndex.filter(function(page) {
+                    return page.href === result.ref;
+                })[0];
+            });
+    }
+
+    
+
+    function renderResults(results) {
+        if (!results.length) {
+            return;
+        }
+
+        
+        results.slice(0, 10).forEach(function(result) {
+            var $result = $("<li>");
+            $result.append($("<a>", {
+                href: result.href,
+                text: result.title.replace(/<.*?>/gi,"")
+            }));
+            $results.append($result);
+        });
+    }
+
+    
+    initLunr();
+
+    function setupOnFocus(){
+        var $search = $("#search");
+        $search.focus(
+            function(){
+                var top = $search.offset().top - 30;
+                $('html,body').animate({scrollTop:top},'slow');
+            }
+        );
+    }
+
+    $(document).ready(function() {
+        setupOnFocus();
+        initUI();
+    });
+    </script>
+          </p>          
+          <p class="animated fadeInUp">
             
             <a class="btn btn-lg btn-default btn-call-to-action" href="/seo/">SEO Solutions</a>
                       
           </p>
+
           
         </div>
       </div>
     </div>
   </div>
 </section>
+
+   <ul id="results">
+    </ul>
 	
 
 	
