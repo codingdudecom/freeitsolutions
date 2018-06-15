@@ -99,3 +99,7 @@ ul#results li a{
     font-size: 28px;
     line-height: 1.7em;
 }
+
+h1, .h1, h2, .h2, h3, .h3{
+  margin-top:2em;
+}

@@ -18,6 +18,7 @@ In this list, I've gathered the best online keyword suggestion tools that you ca
 1. [Ubbersuggest](https://neilpatel.com/ubersuggest/)
 2. [Google Correlate](https://www.google.com/trends/correlate/)
 3. [KWFinder](https://kwfinder.com)
+4. [Google AdWords > Keyword Planner Tool](https://adwords.google.com)
 
 ## 1. Ubbersuggest (Neil Patel) ##
 
@@ -74,3 +75,39 @@ It provides quite an extensive report showing:
 Here's how the results look like
 
 ![KWFinder Analysis Result](/img/online-keyword-research/kwfinder-analysis-results.png)
+
+## 4. Google AdWords > Keyword Planner - Use Google For Keyword Research ##
+
+![Google AdWords](/img/online-keyword-research/google-adwords.png)
+
+[Google AdWords > Keyword Planner Tool](https://adwords.google.com) is probably one of the best known tool for keyword research. I left it at the end especially because it's so well known.
+
+Google AdWords is mainly for creating Google ads, not doing SEO or keyword research. That said, there is a strong overlap between keywords advertisers are focusing and what people are searching.
+
+The way to use it has changed several times during the last 10 years. I'm describing how Google AdWords Keyword Planner Tool looks like in 2018 and how to use it.
+
+To open Google AdWords Keyword Planner simply go to the **Keyword Planner** in the **Tools** menu:
+
+![Open Google Keyword Planner Tool](/img/online-keyword-research/google-keyword-planner.png)
+
+Then, you will see 2 options:
+
+- Find Keywords - this is actually the way to get keywords suggestion similar to your focus keywords
+- Get Search Volume & Forecast - this will give you
+
+
+![Open Google Keyword Planner Tool](/img/online-keyword-research/google-keyword-planner-options.png)
+
+### Google AdWords > Keyword Planner > Find Keywords ###
+
+Simply key in your chosen keywords and the tool will suggest similar keywords. Here's a sample of how that looks like:
+
+![Open Google Keyword Planner Tool](/img/online-keyword-research/google-adwords-keyword-stats.png)
+
+### Google AdWords > Keyword Planner > Get Search Volume & Forecast ###
+
+Here's how the tool provides insight regarding search volume and competition on the selected keywords.
+
+![Open Google Keyword Planner Tool](/img/online-keyword-research/google-adwords-keyword-forecast.png)
+
+
