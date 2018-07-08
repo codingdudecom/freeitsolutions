@@ -20,7 +20,7 @@ In this list, I've gathered the best online keyword suggestion tools that you ca
 3. [KWFinder](https://kwfinder.com)
 4. [Google AdWords > Keyword Planner Tool](https://adwords.google.com)
 
-Using these Google search volume checker tools you will be able to find the best keywords for your posts and improve your Google ranking in the search results.
+Basically they are Google keyword volume checker tools. Using them you will be able to find the best keywords for your posts and improve your Google ranking in the search results.
 
 ## 1. Ubbersuggest (Neil Patel) ##
 
