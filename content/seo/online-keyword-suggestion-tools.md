@@ -20,6 +20,8 @@ In this list, I've gathered the best online keyword suggestion tools that you ca
 3. [KWFinder](https://kwfinder.com)
 4. [Google AdWords > Keyword Planner Tool](https://adwords.google.com)
 
+Using these Google search volume checker tools you will be able to find the best keywords for your posts and improve your Google ranking in the search results.
+
 ## 1. Ubbersuggest (Neil Patel) ##
 
 ![ubersuggest keyword research](/img/online-keyword-research/online-keyword-research-ubersuggest.png)
@@ -83,6 +85,8 @@ Here's how the results look like
 [Google AdWords > Keyword Planner Tool](https://adwords.google.com) is probably one of the best known tool for keyword research. I left it at the end especially because it's so well known.
 
 Google AdWords is mainly for creating Google ads, not doing SEO or keyword research. That said, there is a strong overlap between keywords advertisers are focusing and what people are searching.
+
+Because of that, this is considered *the main Google keyword volume checker*.
 
 The way to use it has changed several times during the last 10 years. I'm describing how Google AdWords Keyword Planner Tool looks like in 2018 and how to use it.
 
