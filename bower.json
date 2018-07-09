@@ -1,0 +1,23 @@
+{
+  "name": "freeitsolutions",
+  "description": "Free IT Solutions Website",
+  "main": "Gruntfile.js",
+  "authors": [
+    "John Negoita <johnny.php@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/codingdudecom/freeitsolutions",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jssocials": "^1.5.0",
+    "font-awesome": "^5.1.0"
+  }
+}
