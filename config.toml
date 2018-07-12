@@ -129,4 +129,4 @@ publishDir = "docs"
       title = "We Also Count in Google Maps"
 
 [params.google]
-  analytics="UA-6044359-2"
+  analytics="UA-1211822-1"
