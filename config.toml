@@ -23,6 +23,10 @@ publishDir = "docs"
     name = "SEO"
     url = "/seo"  
   [[menu.header]]
+    weight = 4
+    name = "Web Development"
+    url = "/web-development"      
+  [[menu.header]]
     weight = 5
     name = "Contact"
     url = "/contact"
@@ -55,7 +59,7 @@ publishDir = "docs"
   # This license is offered with a 50% discount for all Hugo users.
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-  date_format = "6 January 2006"
+  date_format = "Monday, Jan 2, 2006"
 
   home = "Home"
 
@@ -84,9 +88,14 @@ publishDir = "docs"
     subtitle = "Catch up with us, anytime and anywhere"
 
   [params.seo]
-    enable = false
+    enable = true
     title = "Online SEO Tools"
     subtitle = "Here's a list of online SEO tools that you can use for free"
+
+  [params.web-development]
+    enable = true
+    title = "Web Development Free Solutions"
+    subtitle = "Here's a list of online web development solutions that you can use for free"    
 
   [params.feature]
     enable = true
@@ -98,8 +107,8 @@ publishDir = "docs"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "Free IT Solutions"
+    paragraph = "For every problem there is a solution. We gather free online solutions for various problems and offer them to yo for free"
 
   [params.contact]
     enable = true

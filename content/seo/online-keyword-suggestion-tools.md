@@ -1,7 +1,8 @@
 ---
 title: "<strong>Search Engine Optimization:</strong> Online Keyword Suggestion Tools"
-date: 2018-06-12T13:50:22+03:00
+date: 2018-06-06
 author: John Negoita
+authorLink: https://twitter.com/codingdudecom
 category: seo
 ---
 

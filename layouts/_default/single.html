@@ -14,10 +14,12 @@
 	      <div class="row">
 	        <div>
 	          <div class="block">
+
 	            <h1>{{ .Params.title | safeHTML}}</h1>
 	            <div class="post-info-wrapper">
-	              <p class="italic">By <span class="bold">{{ .Params.author }}</span> on <span class="bold">{{ .Date.Format .Site.Params.date_format }}</span></p>
+	              <p class="italic">By <span class="bold"><a target="_blank" rel="nofollow" href="{{ .Params.authorLink }}">{{ .Params.author }}</a></span> on <span class="bold">{{ .Date.Format .Site.Params.date_format }}</span></p>
 	            </div>
+
 	            <hr />
 		    <div class="share"></div>
 	            <p>{{ .Content }}</p>
