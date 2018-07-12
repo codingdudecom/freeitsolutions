@@ -1,5 +1,6 @@
 ---
 title: "<strong>Search Engine Optimization:</strong> Online Keyword Suggestion Tools"
+description: "Doing keyword research for search engine optimization is crucial for getting a your website to rank higher. But what does keyword research actually mean?"
 date: 2018-06-06
 author: John Negoita
 authorLink: https://twitter.com/codingdudecom
