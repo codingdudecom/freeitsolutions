@@ -72,9 +72,9 @@ publishDir = "docs"
       label = "SEO Solutions"
       url = "/seo/"
 
-    #[[params.slider.button]]
-    #  label = "Web Design Solutions"
-    #  url = "#"
+    [[params.slider.button]]
+      label = "Web Development Solutions"
+      url = "/web-development/"
 
   [params.wrapper]
     enable = true
