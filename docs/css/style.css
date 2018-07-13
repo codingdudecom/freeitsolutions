@@ -10,6 +10,10 @@
    text-align: center;
  }
 
+ #slider{
+  padding-top:0;
+ }
+
 .post-area {
   padding: 40px;
   width: 100%;
@@ -102,4 +106,28 @@ ul#results li a{
 
 h1, .h1, h2, .h2, h3, .h3{
   margin-top:2em;
+}
+
+
+
+.article-container{
+  display: flex;
+  flex-wrap:wrap;
+  background-color: #ddd;
+  padding: 20px;
+}
+
+.article-container article {
+    flex: 0.33;
+    flex-grow: 1;
+    min-width: 400px;
+    padding: 0 40px 20px;
+    margin: 0 20px;
+    background-color: #fff;
+    box-shadow: 3px 3px 2px #cacaca;
+}
+
+.article-container article time{
+  opacity: 0.5;
+  text-transform: uppercase;
 }

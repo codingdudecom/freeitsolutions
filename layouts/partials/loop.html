@@ -1,0 +1,15 @@
+	<div class="article-container">
+		{{ range first 10 .Data.Pages }}
+		{{if .Section}}
+		<article itemscope="" itemtype="https://schema.org/CreativeWork">
+			<h2 itemprop="headline"><a href="{{ .Permalink }}" class="bold">{{ .Title | safeHTML}}</a></h2>
+			<time itemprop="datePublished" datetime="{{.Date}}">{{ .Date.Format .Site.Params.date_format }}</time>
+			{{if .Params.Description}}
+			<p class="post-summary" itemprop="text">{{ .Params.Description }}</p>
+			{{else}}
+			<p class="post-summary" itemprop="text">{{ .Summary }}</p>
+			{{end}}
+		</article>
+		{{ end }}
+		{{ end }}	
+	</div>
