@@ -30,6 +30,8 @@ In this list, I've gathered the best online keyword suggestion tools that you ca
 
 Basically they are Google keyword volume checker tools. Using them you will be able to find the best keywords for your posts and improve your Google ranking in the search results.
 
+So, which is the best free keyword suggestion tool for your website? I will let you decide.
+
 ## 1. Ubbersuggest (Neil Patel) ##
 
 ![ubersuggest keyword research](/img/online-keyword-research/online-keyword-research-ubersuggest.png)
@@ -37,9 +39,13 @@ Basically they are Google keyword volume checker tools. Using them you will be a
 [Ubbersuggest](https://neilpatel.com/ubersuggest/) is an amazing online keyword tool. 
 
 Neil Patel (one of my favorite SEO gurus) has purchased this tool a while back and placed it on his site.
-You can use the tool for free.
+You can use the tool for free. This free online keyword suggestion tool allows you to do keyword research without even logging in.
 
 What can I say, it's simply the best.
+
+Rumour has it that Neil Patel is preparing a huge blow to the online keyword suggestion tools and SEO tools in general. Neil is preparing to create a full suite of free online SEO tools. Since none of the big players on this market has clearly been set as a leader, and the top tools are now extremly expensive (starting at around 199$/month), Neil's move can potentially be a game changer in the world of SEO online tools. 
+
+Virtually, he can take over the entire market in one move. But, until then, let's take a look at Ubbersuggest.
 
 ### How does Ubersuggest work? ###
 
@@ -157,7 +163,7 @@ Here's how the results look like:
 
 Google AdWords is mainly for creating Google ads, not doing SEO or keyword research. That said, there is a strong overlap between keywords advertisers are focusing and what people are searching.
 
-Because of that, this is considered *the main Google keyword volume checker*.
+Because of that, this is considered *the main Google keyword volume checker*. The *Google AdWords Keyword Research Tool* will give you an insight into Google search terms right from the source.
 
 The way to use it has changed several times during the last 10 years. I'm describing how Google AdWords Keyword Planner Tool looks like in 2018 and how to use it.
 
@@ -167,8 +173,8 @@ To open Google AdWords Keyword Planner simply go to the **Keyword Planner** in t
 
 Then, you will see 2 options:
 
-- Find Keywords - this is actually the way to get keywords suggestion similar to your focus keywords
-- Get Search Volume & Forecast - this will give you
+- Find Keywords - this is actually the way to get keywords suggestion similar to your focus keywords. This is pretty similar to results offered by other SEO research tools.
+- Get Search Volume & Forecast - the keyword volume checker is given as an interval, which is not very exact. This doesn't make Google AdWords the best kewyword research tool, but you can get a pretty good idea on the search volume.
 
 
 ![Open Google Keyword Planner Tool](/img/online-keyword-research/google-keyword-planner-options.png)
