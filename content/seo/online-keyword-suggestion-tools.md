@@ -25,7 +25,7 @@ In this list, I've gathered the best online keyword suggestion tools that you ca
 6. [Keyword.io - Google Autocomplete Longtail Keyword Tool](https://www.keyword.io)
 7. [Google AdWords > Keyword Planner Tool](https://adwords.google.com)
 8. [Google Correlate](https://www.google.com/trends/correlate/)
-
+9. [Keyword Keg](https://app.keywordkeg.com)
 
 
 Basically they are Google keyword volume checker tools. Using them you will be able to find the best keywords for your posts and improve your Google ranking in the search results.
@@ -201,3 +201,27 @@ Key in a keyword combination and the tool will give you other combinations that 
 Here's how the results look like
 
 ![Google Correlate keywords tool](/img/online-keyword-research/google-correlate-keywords-tool.png)
+
+## 9. Keyword Keg ##
+
+![online keyword suggestion tool keyword keg](/img/online-keyword-research/keyword-keg-suggestion-tool.png)
+
+[Keyword Keg](https://app.keywordkeg.com) is another free online keyword suggestion tool. There's also a permium version that you have to pay for, but the free version has already some very interesting keyword suggestion features.
+
+IMPORTANT: when doing keyword research as part of a SEO session for pages that want to eventually sell products or services, you should pay attention to the *commercial intent of keywords*.
+
+What's that?
+
+Keywords commercial intent is an indicator of whether the person doing the search with that keyword intends to buy something or not.
+
+I'll give you an example:
+
+The keywords *"free online keyword suggestion tool"* has less commercial intent (to none) than *"premium keyword suggestion tool"*. For the former, obviously the intent is to find something free for keyword suggestion, while the latter shows the willingness of the searcher to buy access to a keyword suggestion tool.
+
+*Keyword Keg* like other keyword suggestion tools in this list provides an indicator of commercial intent in the form of CPC (cost-per-click). CPC is what advertisers pay for ads with certain keywords. If they are willing to pay for those ads, it means that for sure there are people willing to buy.
+
+The higher the CPC, the higher the probable commercial intent of the keywords.
+
+Here's how the Keyword Keg results look like
+
+![Keyword Keg keywords suggestion tool results](/img/online-keyword-research/online-suggestion-tool-keyword-keg.png)
