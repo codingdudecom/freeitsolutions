@@ -17,8 +17,8 @@ Since guessing is not a science and SEO is, let's take a look at how to do keywo
 
 In this list, I've gathered the best online keyword suggestion tools that you can use for free.
 
-1. [Ubbersuggest](https://neilpatel.com/ubersuggest/)
-2. [Google Correlate](https://www.google.com/trends/correlate/)
+1. [Ubersuggest](https://neilpatel.com/ubersuggest/)
+2. [LSIGraph](https://lsigraph.com/analysis/)
 3. [KWFinder](https://kwfinder.com)
 4. [AnswerThePublic - Search Intent Tool](https://answerthepublic.com)
 5. [Keywords Everywhere keyword research tool](https://keywordseverywhere.com/)
@@ -26,17 +26,40 @@ In this list, I've gathered the best online keyword suggestion tools that you ca
 7. [Google AdWords > Keyword Planner Tool](https://adwords.google.com)
 8. [Google Correlate](https://www.google.com/trends/correlate/)
 9. [Keyword Keg](https://app.keywordkeg.com)
+10. [Wordtracker](https://www.wordtracker.com)
+11. [SEMrush](https://www.semrush.com)
 
 
 Basically they are Google keyword volume checker tools. Using them you will be able to find the best keywords for your posts and improve your Google ranking in the search results.
 
-So, which is the best free keyword suggestion tool for your website? I will let you decide.
+So, which is the best keyword suggestion tool for free online use? I will let you decide.
 
-## 1. Ubbersuggest (Neil Patel) ##
+## 1. Ubersuggest (Neil Patel) - Free Keyword Tool, Generate More Suggestions ##
 
-![ubersuggest keyword research](/img/online-keyword-research/online-keyword-research-ubersuggest.png)
+*UPDATE:* As of October 2018, Ubersuggest has changed its interface and the way it works. I can't really tell if the changes made are final or if the online keyword tool is in the final version.
 
-[Ubbersuggest](https://neilpatel.com/ubersuggest/) is an amazing online keyword tool. 
+### The New Ubersuggest 2018 ###
+
+![New Ubersuggest Keyword Research Online 2018](/img/online-keyword-research/new-ubersuggest.png)
+
+The new Ubersuggest online keyword suggestion and SEO tool offers 3 main features:
+
+- Keyword Overview - SEO search volume and PPC estimations overview
+- Keyword Suggestions - From head terms to long-tail phrases you’ll get hundreds of suggestions from our free keyword tool. You’ll also see volume, the competition, and even seasonal trends for each keyword.
+- Keyword Difficulty - Estimate how hard it’s going to be to rank organically. Check competitive keywords and phrases.
+
+Here's a quick view of how the SEO Keywords Ideas Report looks like in the new Ubersuggest tool 2018:
+
+![New Ubersuggest SEO Keywords Ideas Report](/img/online-keyword-research/seo-keywords-ideas-ubersuggest.png)
+
+
+### The Old Ubersuggest ###
+
+It's not Ubbersuggest, it's Ubersuggest!
+
+![Ubersuggest Keyword Research](/img/online-keyword-research/online-keyword-research-ubersuggest.png)
+
+[Ubersuggest](https://neilpatel.com/ubersuggest/) is an amazing online keyword tool. 
 
 Neil Patel (one of my favorite SEO gurus) has purchased this tool a while back and placed it on his site.
 You can use the tool for free. This free online keyword suggestion tool allows you to do keyword research without even logging in.
@@ -45,7 +68,7 @@ What can I say, it's simply the best.
 
 Rumour has it that Neil Patel is preparing a huge blow to the online keyword suggestion tools and SEO tools in general. Neil is preparing to create a full suite of free online SEO tools. Since none of the big players on this market has clearly been set as a leader, and the top tools are now extremly expensive (starting at around 199$/month), Neil's move can potentially be a game changer in the world of SEO online tools. 
 
-Virtually, he can take over the entire market in one move. But, until then, let's take a look at Ubbersuggest.
+Virtually, he can take over the entire market in one move. But, until then, let's take a look at Ubersuggest.
 
 ### How does Ubersuggest work? ###
 
@@ -66,7 +89,7 @@ You can export the results in CSV and start choosing your focus keywords that wi
 
 ## 2. LSI Graph - Latent Semantic Indexing Or Related Searches ##
 
-![ubersuggest keyword research](/img/online-keyword-research/lsigraph-keyword-tool.png)
+![latent semantic indexing or related keyword research](/img/online-keyword-research/lsigraph-keyword-tool.png)
 
 [LSI Graph](https://lsigraph.com/analysis/) is a LSI keyword tool. 
 
@@ -82,7 +105,7 @@ Here's how the results look like
 
 ![LSI keyword tool LSIGraph](/img/online-keyword-research/lsi-keywords-tool.png)
 
-## 3. KWFinder - Find Long Tail Keywords ##
+## 3. KWFinder - Find Long Tail Keywords With Low SEO Difficulty##
 
 ![KWFinder](/img/online-keyword-research/kwfinder-long-tail-keywords.png)
 
@@ -137,11 +160,11 @@ The websites that are supported by *Keywords Everywhere* :
 
 When you do a search on Google for *seo tips*, here's how the results look like:
 
-![Keywords Everywhere sample results](/img/online-keyword-research/keywords-everywhere-example.png)
+![Keywords Everywhere Sample Results](/img/online-keyword-research/keywords-everywhere-example.png)
 
 ## 6. Keyword.io - Google Autocomplete Longtail Keyword Tool ##
 
-![Keyword.io keyword research tool](/img/online-keyword-research/keyword-io-tool.png)
+![Keyword.io Keyword Research Tool](/img/online-keyword-research/keyword-io-tool.png)
 
 [Keyword.io](https://www.keyword.io) is a keyword research tool that grabs autocomplete keywords from sources like Google autocomplete, Amazon autocomplete, Ebay autocomplete, but also other sources like: Bing, Yandex, Wikipedia, Alibaba, YouTube, Fiverr, Google Play Store, Fotolia, Pond5, etc.
 
@@ -157,7 +180,7 @@ Here's how the results look like:
 
 ## 7. Google AdWords > Keyword Planner - Use Google For Keyword Research ##
 
-![Google AdWords](/img/online-keyword-research/google-adwords.png)
+![Keyword Research With Google AdWords](/img/online-keyword-research/google-adwords.png)
 
 [Google AdWords > Keyword Planner Tool](https://adwords.google.com) is probably one of the best known tool for keyword research. I left it at the end especially because it's so well known.
 
@@ -192,7 +215,7 @@ Here's how the tool provides insight regarding search volume and competition on 
 ![Open Google Keyword Planner Tool](/img/online-keyword-research/google-adwords-keyword-forecast.png)
 
 
-## 8. Google Correlate ##
+## 8. Google Correlate - Statistical Correlations Between Search Keywords ##
 
 [Google Correlate](https://www.google.com/trends/correlate/) is a less known tool from Google. It does statistic correlations between keywords searched.
 
@@ -202,9 +225,9 @@ Here's how the results look like
 
 ![Google Correlate keywords tool](/img/online-keyword-research/google-correlate-keywords-tool.png)
 
-## 9. Keyword Keg ##
+## 9. Keyword Keg - Discover Top Long-tail Keywords Using Data From 11 Suggest APIs##
 
-![online keyword suggestion tool keyword keg](/img/online-keyword-research/keyword-keg-suggestion-tool.png)
+![Online Keyword Suggestion Tool Keyword Keg](/img/online-keyword-research/keyword-keg-suggestion-tool.png)
 
 [Keyword Keg](https://app.keywordkeg.com) is another free online keyword suggestion tool. There's also a permium version that you have to pay for, but the free version has already some very interesting keyword suggestion features.
 
@@ -225,3 +248,23 @@ The higher the CPC, the higher the probable commercial intent of the keywords.
 Here's how the Keyword Keg results look like
 
 ![Keyword Keg keywords suggestion tool results](/img/online-keyword-research/online-suggestion-tool-keyword-keg.png)
+
+## 10. Wordtracker - Free Keyword Research Tool ##
+
+![Wordtracker Free Keyword Research Tool](/img/online-keyword-research/keywords-seo-wordtracker.png)
+
+[Wordtracker](https://www.wordtracker.com) is a free online keyword research tool that provides in-depth reports on search volume for related search strings.
+
+It combines competitors' keywords, in-depth PPC and SEO insights, data from Google and presents them in a report that looks something like this:
+
+![Wordtracker Free Keyword Research Tool](/img/online-keyword-research/wordtracker-results-keywords-seo.png)
+
+## 11. SEMrush - Service For Competitors Research, Shows Organic And Ads Keywords For Any Site Or Domain ##
+
+![SEMrush Related Keyword And SEO Research Tool](/img/online-keyword-research/keyword-marketing-research-semrush.png)
+
+[Wordtracker](https://www.wordtracker.com) is a free online keyword research tool. It does require you to create an account and there are limitations on the number of queries you can make in a day. But, the reports offered are among the most extensive SEO reports I could find in any of the other keyword research tools. Besides keyword research you can do other SEO tasks like backlink listing, competition analysis and more.
+
+Here's how SEMrush presents the information regarding keyword search volumes:
+
+![SEMrush SEO keyword overview report](/img/online-keyword-research/keyword-overview-report-semrush.png)
