@@ -1,5 +1,5 @@
 ---
-title: "<strong>Search Engine Optimization:</strong> Online Keyword Suggestion Tools"
+title: "10+ Free Online Keyword Suggestion Tools"
 description: "Doing keyword research for search engine optimization is crucial for getting a your website to rank higher. But what does keyword research actually mean?"
 date: 2018-06-06
 author: John Negoita
@@ -14,6 +14,27 @@ But **what does keyword research** actually mean?
 
 > Basically, it means trying to guess which keywords and combination of keywords will attract the most traffic.
 Since guessing is not a science and SEO is, let's take a look at how to do keyword research like a PRO for free.
+
+The truth is this,
+
+If you only started blogging, or you don't have a website that brings a substantial income, paying for an online keyword research tool is not an option.
+
+I know that because I really can't afford 100$ per month to spend for that. I post about once a week, so that would mean spending in average 25$ per post only for keyword research. Needless to say, that there are weeks when I don't post, so that would be money down the drain.
+
+Anyway, you are here because you are searching for free tools to do keyword research. And that's what you will get below. Please note that most of the tools will try to sell you the extra features, and I encourage you to do so if you have the money.
+
+But, if not, here's what I would do:
+
+First, I would bookmark this page, so I can come back to it whenever I want to do keyword research.
+
+Then, I would combine as much as possible the results from these keyword research tools. As most of the free keyword tools will limit the number of queries you can do per day, it's a good strategy to continously rotate the tool you use.
+
+In time you will get used to all the tools and get better and better at quickly getting the best keywords for your posts.
+
+Without further ado
+
+## The Best Free Online Keyword Suggestion Tools ##
+
 
 In this list, I've gathered the best online keyword suggestion tools that you can use for free.
 
