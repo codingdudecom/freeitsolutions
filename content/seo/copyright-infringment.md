@@ -17,6 +17,8 @@ category: seo
 
 Good news is that there are measures you can take against this kind of situations. Distributing copyrighted content without the author's permission constitutes **copyright infringment** and it's illegal. 
 
+The [Digital Millennium Copyright Act of 1998](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) was designed to define the rules of copyright infringement as it pertains to the digital age. It outlines both the protections and consequences for internet service providers (ISPs), users, and copyright owners in the digital landscape.
+
 In this article I will show you a few simple but **effective methods to deal with copyright infringment**.
 
 Let's get started.
@@ -62,7 +64,9 @@ No.
 
 To find if your images have been stolen or are distributed without permission you can also use Google. Google has had for quite some time the ability to search similar images.
 
-Simply go to Google, switch to image search and drag and drop your original image onto the search bar. Google will try and find identical or similar images to yours. You will have to spot which images are copyright infringments.
+![Google Search By Image](/img/copyright-infringment/google-search-by-image.jpg)
+
+Simply go to Google, switch to image search. Either drag and drop your original image onto the search bar or click the Search By Image icon and input the URL of the image or upload the image you want to search. Google will try and find identical or similar images to yours. You will have to spot which images are copyright infringments.
 
 ### How To Get Notified When Somebody Steals Your Content ###
 
@@ -73,7 +77,7 @@ I use [Google Alerts](https://www.google.com/alerts) which is a free service fro
 ![New Google Alerts 2019](/img/copyright-infringment/new-google-alerts.jpg)
 
 
-## How To Report A Website For Stealing Content - DMCA Google Notice ##
+## How To Report To Google A Website For Stealing Content - DMCA Google Notice ##
 
 Once you identified the stolen content and the website that is posting it without permission you can file a DMCA notice to Google.
 
@@ -102,3 +106,71 @@ The data you need to put in is similar to the DMCA Google report for web search 
 
 ![Google Image Search Link For DMCA Report](/img/copyright-infringment/google-image-search-link.jpg)
 
+### YouTube Copyright Infringment Complaints And Other Google DMCA Takedown Reports ###
+
+Copyright infringment claims extend further than text and images. If you produce other types of content like videos or software and this content gets re-distributed without permission via Google products like YouTube, Google Docs, Google Drive, Fusion Tables, Blogger, Google Photos, Google+ Photos, Picasa Web Albums and Videos, here are the links you can use to file a DMCA report with Google.
+
+1. [YouTube Copyright Infringement Notification](https://www.youtube.com/copyright_complaint_form)
+2. [Report alleged copyright infringement: Google Photos, Google+ Photos, Picasa Web Albums and Videos](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=1&complaint_type=1)
+3. [Report alleged copyright infringement: Google Docs, Google Drive and Fusion Tables](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=2&complaint_type=1)
+4. [Report alleged copyright infringement: Blogger](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=4&complaint_type=1)
+5. [Report alleged copyright infringement: Google+](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=5&complaint_type=1) (effectively April 2019, Google+ has been closed down, so this tool will also probably be removed)
+
+## How To Deal With Content Copyright Infringment Outside Google ##
+
+Reporting copyright infringment to Google will probably get resolved by Google removing the pages with the stolen content from the search results.
+
+But, the content will still be out there. What else can I do to remove stolen content from a website?
+
+Besides hiring a lawyer and suing the site, here are a few other things that anybody can do.
+
+### Contact The Hosting Provider Of The Website With The Stolen Content ###
+
+Learn this term well "DMCA Takedown Notice". I'm not a lawyer, and in some cases hiring one could be the only way to resolve a copyright infringment case.
+
+But, any person can request to have their copyrighted content taken off a website if it constitutes copyright infringment. Assuming that contacting the website owner and asking him to take down the infringing content has failed, here's what you can do:
+
+Use a tool for [IP whois lookup](https://www.ultratools.com/tools/ipWhoisLookup) and input the domain of the infringing website. This will give you info about the hosting provider that hosts the infringing website. Usually this contains a contact email address. Look for something like *abuse@hostingprovider.com* and send them an email explaining the situation.
+
+There are some requirements for the DMCA notice:
+
+1. Make it in writing (this includes both hardcopy or digital);
+2. Sign it (whether in writing of via electronic signature: just put your name) by the copyright owner or agent;
+3. Identify the original copyrighted work (or works) you claim has been infringed;
+4. Identify the material that is infringing your copyrighted work;
+5. Include contact information so the designated agent can reach you, if necessary;
+6. Include a statement your complaint is in “good faith;”
+7. Include a statement the information in the notification is accurate; and
+8. Include a statement that under penalty of perjury you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Here's a DMCA takedown notice template that I use for copyright infringment situations.
+
+`Subject: DMCA Takedown Notice
+	
+Dear Sir/Madame,
+
+I would like to request the removal of files currently hosted on your servers due the copyright infringement.
+
+My name is [your full name] and I am the copyright owner of the [describe copyrighted content].
+
+The original content can be seen here:[place links to the original content]
+
+I'm referring to the website/webpages displaying copyright infringing content:
+[list of infringing website/webpages]
+
+hosted on the server with the IP
+[list IP]
+
+My contact details are [full name, address, phone number and email address]
+
+I have a good faith belief that use of the aforementioned material
+is not authorized by the copyright owner, its agents, or the law
+
+All information in the notice is accurate, and under penalty of
+perjury, I am the owner of an exclusive right that is believed
+infringed.
+
+SIGNED: [your full name to act as digital signature]
+[date]
+
+`
