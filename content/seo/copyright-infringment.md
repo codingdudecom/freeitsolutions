@@ -145,32 +145,29 @@ There are some requirements for the DMCA notice:
 
 Here's a DMCA takedown notice template that I use for copyright infringment situations.
 
-`Subject: DMCA Takedown Notice
-	
-Dear Sir/Madame,
+  Subject: DMCA Takedown Notice
+  	
+  Dear Sir/Madame,
+  
+  I would like to request the removal of files currently hosted on your servers due the copyright infringement.
+  
+  My name is [your full name] and I am the copyright owner of the [describe copyrighted content].
+  
+  The original content can be seen here:[place links to the original content]
+  
+  I'm referring to the website/webpages displaying copyright infringing content:
+  [list of infringing website/webpages]
+  
+  hosted on the server with the IP
+  [list IP]
+  
+  My contact details are [full name, address, phone number and email address]
+  
+  I have a good faith belief that use of the aforementioned material
+  is not authorized by the copyright owner, its agents, or the law
+  
+  All information in the notice is accurate, and under penalty of perjury, I am the owner of an exclusive right that is believed infringed.
 
-I would like to request the removal of files currently hosted on your servers due the copyright infringement.
+  SIGNED: [your full name to act as digital signature]
+  [date]
 
-My name is [your full name] and I am the copyright owner of the [describe copyrighted content].
-
-The original content can be seen here:[place links to the original content]
-
-I'm referring to the website/webpages displaying copyright infringing content:
-[list of infringing website/webpages]
-
-hosted on the server with the IP
-[list IP]
-
-My contact details are [full name, address, phone number and email address]
-
-I have a good faith belief that use of the aforementioned material
-is not authorized by the copyright owner, its agents, or the law
-
-All information in the notice is accurate, and under penalty of
-perjury, I am the owner of an exclusive right that is believed
-infringed.
-
-SIGNED: [your full name to act as digital signature]
-[date]
-
-`
