@@ -1,11 +1,15 @@
 ---
-title: "5 Effective Methods To Deal With Copyright Infringment In 2019"
+title: "3 Effective Methods To Deal With Copyright Infringment In 2019"
 description: "Copyright infringement is a growing concern today. Has your content been stolen? See how to find out and how to effectively deal with situations in which your content has been stolen."
 date: 2019-04-21
 author: John Negoita
 authorLink: https://twitter.com/codingdudecom
 category: seo
-image: http://www.freeitsolutions.com/img/copyright-infringment/copyright-infringment.jpg
+image: 
+  url: "/img/copyright-infringment/copyright-infringment.jpg"
+  width: 960
+  height: 459
+
 ---
 
 >If you are an online content creator for your blog or website, if you write content, create images or videos, your content was probably stolen at least once.
@@ -24,7 +28,7 @@ In this article I will show you a few simple but **effective methods to deal wit
 
 Let's get started.
 
-## Copyright Infringment - How To Spot It ##
+## 1. Copyright Infringment - How To Spot It ##
 
 ### How To Find Who Stole Your Content ###
 
@@ -78,7 +82,7 @@ I use [Google Alerts](https://www.google.com/alerts) which is a free service fro
 ![New Google Alerts 2019](/img/copyright-infringment/new-google-alerts.jpg)
 
 
-## How To Report To Google A Website For Stealing Content - DMCA Google Notice ##
+## 2. How To Report To Google A Website For Stealing Content - DMCA Google Notice ##
 
 Once you identified the stolen content and the website that is posting it without permission you can file a DMCA notice to Google.
 
@@ -117,7 +121,7 @@ Copyright infringment claims extend further than text and images. If you produce
 4. [Report alleged copyright infringement: Blogger](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=4&complaint_type=1)
 5. [Report alleged copyright infringement: Google+](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=5&complaint_type=1) (effectively April 2019, Google+ has been closed down, so this tool will also probably be removed)
 
-## How To Deal With Content Copyright Infringment Outside Google ##
+## 3. How To Deal With Content Copyright Infringment Outside Google ##
 
 Reporting copyright infringment to Google will probably get resolved by Google removing the pages with the stolen content from the search results.
 
