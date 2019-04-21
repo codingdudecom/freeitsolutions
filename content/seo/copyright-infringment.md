@@ -147,6 +147,7 @@ There are some requirements for the DMCA notice:
 
 Here's a DMCA takedown notice template that I use for copyright infringment situations.
 
+~~~~
   Subject: DMCA Takedown Notice
   	
   Dear Sir/Madame,
@@ -172,6 +173,7 @@ Here's a DMCA takedown notice template that I use for copyright infringment situ
 
   SIGNED: [your full name to act as digital signature]
   [date]
+~~~~
 
 The hosting provider / ISP will probably respond to your complaint in a couple of days and hopefully will take action. If they don't then you have to contact a lawyer and see what else you can do about them.
 
@@ -209,7 +211,7 @@ I have personally used these adresses for successufully reporting DMCA copyright
 
 #### DMCA Takedown Notice Template I Used For File Sharing Services ####
 
-
+~~~~
   Dear Sir/Madame,
   
   I would like to request the removal of a file stored on your websitedue the copyright infringement.
@@ -226,3 +228,39 @@ I have personally used these adresses for successufully reporting DMCA copyright
   6. All information in the notice is accurate, and under penalty of perjury, I am the owner of an exclusive right that is believed infringed.
   
   [full name] [date]
+~~~~
+
+## How Can Copyright Infringement Affect Your SEO ##
+
+### Copyright Infringement Will Reduce Your Income ###
+
+If you are monetizing your content, then for sure copyright infringment will be a huge problem.
+
+Obviously, if there are a lot of websites stealing your content and offering it for free, you will get less visitors to your website.
+
+One big SEO signal that Google uses is search result CTR. So, the more clicks you get on a search result, the higher the ranking for that page will be.
+
+Now, consider this,
+Which search result will get more clicks? One that offers stuff for free or one that doesn't.
+
+This is why it's important at least to be aware of the fact that people are not always nice. There are a lot of websites that make money by stealing other people's work. As unfair as it might sound, those sites are more popular than yours just because they are offering commercial stuff for free.
+
+You will never be able to cut your loses down to 0, but if you keep an eye on things then you will be able to limit them.
+
+### Copyright Infringment Will Reduce Your Traffic ###
+
+Even if your content is not commercial, so you are also offering it for free, still copyright infringment will potentially affect your Google ranking.
+
+First, because Google seems to favor sites with more content. Because the infringing website is probably stealing content from others too it will for sure have more content than you and publish more frequently.
+
+This means that they will rank higher than you.
+
+By filing DMCA notices for those sites you can instantly boost your rankings. I know this from experience. After finding not one but 4 sites that copied content from my website (all ranking above me), I filed a Google DMCA report. In 24 hours the pages were removed from Google search results and I jumped 4 positions up.
+
+Please note that search results on page 1 get 90% of the traffic for a certain keyword. From that aprox 60% go to the positions 1 to 3. So a bost of 4 places up only for one keyword can mean double traffic or even more for that keyword. And that is only for one keyword, and you can imagine that the infringing pages take traffic for more than one keyword.
+
+## Conclusions Copyright Infringment And SEO ##
+
+Fighting against copyright infringment is not easy, it requires work, but you can do it. I hope you find the information in this article useful. If you think this article is missing anything or you want to provide feedback drop me an email at john[at]freeitsolutions.com
+
+Please feel free to quote pieces of the article, but provide a link back to this.
