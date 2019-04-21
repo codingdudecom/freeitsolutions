@@ -143,6 +143,8 @@ There are some requirements for the DMCA notice:
 7. Include a statement the information in the notification is accurate; and
 8. Include a statement that under penalty of perjury you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
+#### Hosting Provider / ISP DMCA Takedown Notice Template ####
+
 Here's a DMCA takedown notice template that I use for copyright infringment situations.
 
   Subject: DMCA Takedown Notice
@@ -171,3 +173,56 @@ Here's a DMCA takedown notice template that I use for copyright infringment situ
   SIGNED: [your full name to act as digital signature]
   [date]
 
+The hosting provider / ISP will probably respond to your complaint in a couple of days and hopefully will take action. If they don't then you have to contact a lawyer and see what else you can do about them.
+
+Fortunately, there are also other steps you can take to remove copyrighted content from the web.
+
+### File DMCA Complaints To Free File Upload And Sharing Services ###
+
+Very often, websites that steal content, especially software content, ebooks, etc. post it on free file upload and sharing services. There are a lot of these services.
+
+Usually, the copyright infringing website will place the files on multiple such services.
+
+Can I do anything about that?
+
+Yes, you can.
+
+All these file sharing services are obligated by law to list on their websites a link to instructions on how to file a DMCA complaint for copyright infringment.
+
+#### File Sharing DMCA Abuse Email Addresses ####
+
+Most of the times they will list an email looking like *abuse@filesharingservice.com* or *dmca@filesharingservice.com*.
+
+I don't particullary like these sites (you might imagine why), so I will not list their links. Here's a list of file sharing sites and the email addresses where they receive DMCA notices:
+
+1. RapidGator *abuse@rapidgator.net*
+2. LittleByte *admin@littlebyte.net*
+3. TurboBit *abuse@turbobit.net*
+4. NitroFlare *abuse@nitroflare.com*
+5. PreFiles *dmca@prefiles.com*
+6. NovaFile *abuse@novafile.com*
+7. ZippyShare *abuse@zippyshare.com*
+8. UsersCloud *userscloud.copyright@gmail.com*
+9. ZoFile *dmca@zofile.com*
+
+I have personally used these adresses for successufully reporting DMCA copyright infringments.
+
+#### DMCA Takedown Notice Template I Used For File Sharing Services ####
+
+
+  Dear Sir/Madame,
+  
+  I would like to request the removal of a file stored on your websitedue the copyright infringement.
+
+  1. My name is [full name] and I am the author of the work contained in the files distributed by your website.
+  2. Original work:
+  [link of the oringinal file]
+  
+  3. Infringing file:
+  [link in the file sharing website]
+   
+  4. My contact details are [full name, address, phone number and email address]
+  5. I have a good faith belief that use of the aforementioned material is not authorized by the copyright owner, its agents, or the law
+  6. All information in the notice is accurate, and under penalty of perjury, I am the owner of an exclusive right that is believed infringed.
+  
+  [full name] [date]
