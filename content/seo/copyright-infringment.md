@@ -13,7 +13,7 @@ category: seo
 
 >Not only that, but your SEO efforts might go down the drain and in the end **you loose money**.
 
-![Copyright Infringment](/img/online-keyword-research/copyright-infringment.jpg)
+![Copyright Infringment](/img/copyright-infringment/copyright-infringment.jpg)
 
 Good news is that there are measures you can take against this kind of situations. Distributing copyrighted content without the author's permission constitutes **copyright infringment** and it's illegal. 
 
@@ -70,7 +70,7 @@ Simply go to Google, switch to image search and drag and drop your original imag
 I use [Google Alerts](https://www.google.com/alerts) which is a free service from Google in which you can enter queries like the one above and the service will notify you via email when a match has been found.
 
 
-![New Google Alerts 2019](/img/online-keyword-research/new-google-alerts.jpg)
+![New Google Alerts 2019](/img/copyright-infringment/new-google-alerts.jpg)
 
 
 ## How To Report A Website For Stealing Content - DMCA Google Notice ##
@@ -100,5 +100,5 @@ If you want to file a DMCA report for Google Image search results go to: [DMCA G
 
 The data you need to put in is similar to the DMCA Google report for web search results. The only difference is that, instead of the link to the infringing image, you will have to copy/paste the image search result link. Simply right click on the infringing image search result and copy the link.
 
-![Google Image Search Link For DMCA Report](/img/online-keyword-research/google-image-search-link.jpg)
+![Google Image Search Link For DMCA Report](/img/copyright-infringment/google-image-search-link.jpg)
 
