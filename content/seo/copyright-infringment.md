@@ -5,6 +5,7 @@ date: 2019-04-21
 author: John Negoita
 authorLink: https://twitter.com/codingdudecom
 category: seo
+image: http://www.freeitsolutions.com/img/copyright-infringment/copyright-infringment.jpg
 ---
 
 >If you are an online content creator for your blog or website, if you write content, create images or videos, your content was probably stolen at least once.
