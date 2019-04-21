@@ -1,12 +1,12 @@
 ---
-title: "3 Effective Methods To Deal With Copyright Infringment In 2019"
+title: "3 Effective Methods To Deal With Copyright Infringement In 2019"
 description: "Copyright infringement is a growing concern today. Has your content been stolen? See how to find out and how to effectively deal with situations in which your content has been stolen."
 date: 2019-04-21
 author: John Negoita
 authorLink: https://twitter.com/codingdudecom
 category: seo
 image: 
-  url: "/img/copyright-infringment/copyright-infringment.jpg"
+  url: "/img/copyright-infringement/copyright-infringement.jpg"
   width: 960
   height: 459
 
@@ -18,17 +18,17 @@ image:
 
 >Not only that, but your SEO efforts might go down the drain and in the end **you loose money**.
 
-![Copyright Infringment](/img/copyright-infringment/copyright-infringment.jpg)
+![Copyright Infringement](/img/copyright-infringement/copyright-infringement.jpg)
 
-Good news is that there are measures you can take against this kind of situations. Distributing copyrighted content without the author's permission constitutes **copyright infringment** and it's illegal. 
+Good news is that there are measures you can take against this kind of situations. Distributing copyrighted content without the author's permission constitutes **copyright infringement** and it's illegal. 
 
 The [Digital Millennium Copyright Act of 1998](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) was designed to define the rules of copyright infringement as it pertains to the digital age. It outlines both the protections and consequences for internet service providers (ISPs), users, and copyright owners in the digital landscape.
 
-In this article I will show you a few simple but **effective methods to deal with copyright infringment**.
+In this article I will show you a few simple but **effective methods to deal with copyright infringement**.
 
 Let's get started.
 
-## 1. Copyright Infringment - How To Spot It ##
+## 1. Copyright Infringement - How To Spot It ##
 
 ### How To Find Who Stole Your Content ###
 
@@ -37,9 +37,9 @@ First, you will have to find out if your content has been stolen.
 How do you do that?
 
 
-#### Finding Text Content Copyright Infringments ####
+#### Finding Text Content Copyright Infringements ####
 
-Just use Google. Here are just a few Google queries that you can use to detect copyright infringment for text content.
+Just use Google. Here are just a few Google queries that you can use to detect copyright infringement for text content.
 
 1. **intitle:"title of your content"** to search for pages that have your content's title in the page title
 2. **inurl:keyword** to search for webpages that have a certain keyword in the url
@@ -57,7 +57,7 @@ If you want to know more about Google search operators, check out this [content 
 
 Alternatively, you can use [Copyscape](https://www.copyscape.com/) which is servivce where you can input your URL and it will search for pages that that copied your content.
 
-#### Finding Image Copyright Infringments ####
+#### Finding Image Copyright Infringements ####
 
 Can someone use a picture of me without my permission?
 
@@ -69,9 +69,9 @@ No.
 
 To find if your images have been stolen or are distributed without permission you can also use Google. Google has had for quite some time the ability to search similar images.
 
-![Google Search By Image](/img/copyright-infringment/google-search-by-image.jpg)
+![Google Search By Image](/img/copyright-infringement/google-search-by-image.jpg)
 
-Simply go to Google, switch to image search. Either drag and drop your original image onto the search bar or click the Search By Image icon and input the URL of the image or upload the image you want to search. Google will try and find identical or similar images to yours. You will have to spot which images are copyright infringments.
+Simply go to Google, switch to image search. Either drag and drop your original image onto the search bar or click the Search By Image icon and input the URL of the image or upload the image you want to search. Google will try and find identical or similar images to yours. You will have to spot which images are copyright infringements.
 
 ### How To Get Notified When Somebody Steals Your Content ###
 
@@ -79,7 +79,7 @@ Simply go to Google, switch to image search. Either drag and drop your original 
 I use [Google Alerts](https://www.google.com/alerts) which is a free service from Google in which you can enter queries like the one above and the service will notify you via email when a match has been found.
 
 
-![New Google Alerts 2019](/img/copyright-infringment/new-google-alerts.jpg)
+![New Google Alerts 2019](/img/copyright-infringement/new-google-alerts.jpg)
 
 
 ## 2. How To Report To Google A Website For Stealing Content - DMCA Google Notice ##
@@ -88,7 +88,7 @@ Once you identified the stolen content and the website that is posting it withou
 
 There is a DMCA Google service, but it's not too friendly imho. Anyway, this is the most effective way to stop the copyright infringing material to spread through Google.
 
-Depending on the type of copyright infringment, Google has multiple forms that you can use to submit your DMCA claim.
+Depending on the type of copyright infringement, Google has multiple forms that you can use to submit your DMCA claim.
 
 ### DMCA Google Notice For Web Results ###
 
@@ -96,7 +96,7 @@ If you want to file a DMCA report for Google web results go to: [DMCA Google Not
 
 These reports act like legal DMCA takedown notices, so Google is forced by law to take action.
 
-You will have to fill in your name and state that you are the copyright holder or legal representative for the copyright holder. Describe what the copyright infringment is and then very important:
+You will have to fill in your name and state that you are the copyright holder or legal representative for the copyright holder. Describe what the copyright infringement is and then very important:
 
 1. place one or more links to your original content
 2. place one or more link to the infringing page
@@ -109,11 +109,11 @@ If you want to file a DMCA report for Google Image search results go to: [DMCA G
 
 The data you need to put in is similar to the DMCA Google report for web search results. The only difference is that, instead of the link to the infringing image, you will have to copy/paste the image search result link. Simply right click on the infringing image search result and copy the link.
 
-![Google Image Search Link For DMCA Report](/img/copyright-infringment/google-image-search-link.jpg)
+![Google Image Search Link For DMCA Report](/img/copyright-infringement/google-image-search-link.jpg)
 
-### YouTube Copyright Infringment Complaints And Other Google DMCA Takedown Reports ###
+### YouTube Copyright Infringement Complaints And Other Google DMCA Takedown Reports ###
 
-Copyright infringment claims extend further than text and images. If you produce other types of content like videos or software and this content gets re-distributed without permission via Google products like YouTube, Google Docs, Google Drive, Fusion Tables, Blogger, Google Photos, Google+ Photos, Picasa Web Albums and Videos, here are the links you can use to file a DMCA report with Google.
+Copyright infringement claims extend further than text and images. If you produce other types of content like videos or software and this content gets re-distributed without permission via Google products like YouTube, Google Docs, Google Drive, Fusion Tables, Blogger, Google Photos, Google+ Photos, Picasa Web Albums and Videos, here are the links you can use to file a DMCA report with Google.
 
 1. [YouTube Copyright Infringement Notification](https://www.youtube.com/copyright_complaint_form)
 2. [Report alleged copyright infringement: Google Photos, Google+ Photos, Picasa Web Albums and Videos](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=1&complaint_type=1)
@@ -121,9 +121,9 @@ Copyright infringment claims extend further than text and images. If you produce
 4. [Report alleged copyright infringement: Blogger](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=4&complaint_type=1)
 5. [Report alleged copyright infringement: Google+](https://www.google.com/webmasters/tools/legal-removal-request?hl=en&pid=5&complaint_type=1) (effectively April 2019, Google+ has been closed down, so this tool will also probably be removed)
 
-## 3. How To Deal With Content Copyright Infringment Outside Google ##
+## 3. How To Deal With Content Copyright Infringement Outside Google ##
 
-Reporting copyright infringment to Google will probably get resolved by Google removing the pages with the stolen content from the search results.
+Reporting copyright infringement to Google will probably get resolved by Google removing the pages with the stolen content from the search results.
 
 But, the content will still be out there. What else can I do to remove stolen content from a website?
 
@@ -131,9 +131,9 @@ Besides hiring a lawyer and suing the site, here are a few other things that any
 
 ### Contact The Hosting Provider Of The Website With The Stolen Content ###
 
-Learn this term well "DMCA Takedown Notice". I'm not a lawyer, and in some cases hiring one could be the only way to resolve a copyright infringment case.
+Learn this term well "DMCA Takedown Notice". I'm not a lawyer, and in some cases hiring one could be the only way to resolve a copyright infringement case.
 
-But, any person can request to have their copyrighted content taken off a website if it constitutes copyright infringment. Assuming that contacting the website owner and asking him to take down the infringing content has failed, here's what you can do:
+But, any person can request to have their copyrighted content taken off a website if it constitutes copyright infringement. Assuming that contacting the website owner and asking him to take down the infringing content has failed, here's what you can do:
 
 Use a tool for [IP whois lookup](https://www.ultratools.com/tools/ipWhoisLookup) and input the domain of the infringing website. This will give you info about the hosting provider that hosts the infringing website. Usually this contains a contact email address. Look for something like *abuse@hostingprovider.com* and send them an email explaining the situation.
 
@@ -150,7 +150,7 @@ There are some requirements for the DMCA notice:
 
 #### Hosting Provider / ISP DMCA Takedown Notice Template ####
 
-Here's a DMCA takedown notice template that I use for copyright infringment situations.
+Here's a DMCA takedown notice template that I use for copyright infringement situations.
 
 ~~~~
   Subject: DMCA Takedown Notice
@@ -194,7 +194,7 @@ Can I do anything about that?
 
 Yes, you can.
 
-All these file sharing services are obligated by law to list on their websites a link to instructions on how to file a DMCA complaint for copyright infringment.
+All these file sharing services are obligated by law to list on their websites a link to instructions on how to file a DMCA complaint for copyright infringement.
 
 #### File Sharing DMCA Abuse Email Addresses ####
 
@@ -212,7 +212,7 @@ I don't particullary like these sites (you might imagine why), so I will not lis
 8. UsersCloud *userscloud.copyright@gmail.com*
 9. ZoFile *dmca@zofile.com*
 
-I have personally used these adresses for successufully reporting DMCA copyright infringments.
+I have personally used these adresses for successufully reporting DMCA copyright infringements.
 
 #### DMCA Takedown Notice Template I Used For File Sharing Services ####
 
@@ -239,7 +239,7 @@ I have personally used these adresses for successufully reporting DMCA copyright
 
 ### Copyright Infringement Will Reduce Your Income ###
 
-If you are monetizing your content, then for sure copyright infringment will be a huge problem.
+If you are monetizing your content, then for sure copyright infringement will be a huge problem.
 
 Obviously, if there are a lot of websites stealing your content and offering it for free, you will get less visitors to your website.
 
@@ -252,9 +252,9 @@ This is why it's important at least to be aware of the fact that people are not 
 
 You will never be able to cut your loses down to 0, but if you keep an eye on things then you will be able to limit them.
 
-### Copyright Infringment Will Reduce Your Traffic ###
+### Copyright Infringement Will Reduce Your Traffic ###
 
-Even if your content is not commercial, so you are also offering it for free, still copyright infringment will potentially affect your Google ranking.
+Even if your content is not commercial, so you are also offering it for free, still copyright infringement will potentially affect your Google ranking.
 
 First, because Google seems to favor sites with more content. Because the infringing website is probably stealing content from others too it will for sure have more content than you and publish more frequently.
 
@@ -264,8 +264,8 @@ By filing DMCA notices for those sites you can instantly boost your rankings. I 
 
 Please note that search results on page 1 get 90% of the traffic for a certain keyword. From that aprox 60% go to the positions 1 to 3. So a bost of 4 places up only for one keyword can mean double traffic or even more for that keyword. And that is only for one keyword, and you can imagine that the infringing pages take traffic for more than one keyword.
 
-## Conclusions Copyright Infringment And SEO ##
+## Conclusions Copyright Infringement And SEO ##
 
-Fighting against copyright infringment is not easy, it requires work, but you can do it. I hope you find the information in this article useful. If you think this article is missing anything or you want to provide feedback drop me an email at john[at]freeitsolutions.com
+Fighting against copyright infringement is not easy, it requires work, but you can do it. I hope you find the information in this article useful. If you think this article is missing anything or you want to provide feedback drop me an email at john[at]freeitsolutions.com
 
 Please feel free to quote pieces of the article, but provide a link back to this.
