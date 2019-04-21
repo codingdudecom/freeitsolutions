@@ -7,11 +7,13 @@ authorLink: https://twitter.com/codingdudecom
 category: seo
 ---
 
-If you are an online content creator for your blog or website, if you write content, create images or videos, your content was probably stolen at least once.
+>If you are an online content creator for your blog or website, if you write content, create images or videos, your content was probably stolen at least once.
 
-This can be very frustrating especially because the site publishing the **stolen content without your permission** might get all the credit you worked so hard to produce.
+>This can be very frustrating especially because the site publishing the **stolen content without your permission** might get all the credit you worked so hard to produce.
 
-Not only that, but your SEO efforts might go down the drain and in the end **you loose money**.
+>Not only that, but your SEO efforts might go down the drain and in the end **you loose money**.
+
+![Copyright Infringment](/img/online-keyword-research/copyright-infringment.jpg)
 
 Good news is that there are measures you can take against this kind of situations. Distributing copyrighted content without the author's permission constitutes **copyright infringment** and it's illegal. 
 
@@ -30,12 +32,12 @@ How do you do that?
 
 #### Finding Text Content Copyright Infringments ####
 
-Easy, just use Google. Here are just a few Google queries that you can use to detect copyright infringment for text content.
+Just use Google. Here are just a few Google queries that you can use to detect copyright infringment for text content.
 
-- **intitle:"title of your content"** to search for pages that have your content's title in the page title
-- **inurl:keyword** to search for webpages that have a certain keyword in the url
-- **-site:yoursite.com** to exclude your website from the search results. Otherwise your site will show up when you search for your content.
-- **OR** you can use this operator to combine multiple queries. So the query will find results matching either one or another condition
+1. **intitle:"title of your content"** to search for pages that have your content's title in the page title
+2. **inurl:keyword** to search for webpages that have a certain keyword in the url
+3. **-site:yoursite.com** to exclude your website from the search results. Otherwise your site will show up when you search for your content.
+4. **OR** you can use this operator to combine multiple queries. So the query will find results matching either one or another condition
 
 Example:
 Let's say you are a photographer and you wrote a piece about "A Photographer's Journey From Beginner To Pro" example<span>.</span>com/photographer-journey-beginner-pro
@@ -87,8 +89,8 @@ These reports act like legal DMCA takedown notices, so Google is forced by law t
 
 You will have to fill in your name and state that you are the copyright holder or legal representative for the copyright holder. Describe what the copyright infringment is and then very important:
 
-- place one or more links to your original content
-- place one or more link to the infringing page
+1. place one or more links to your original content
+2. place one or more link to the infringing page
 
 The good news is that most of these DMCA takedown notices are handled swiftly by Google and it takes about 24 hours for them to remove the infringing result from their search results.
 
