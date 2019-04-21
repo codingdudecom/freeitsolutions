@@ -5,7 +5,10 @@ date: 2018-07-12
 author: John Negoita
 authorLink: https://twitter.com/codingdudecom
 category: web-development
-draft: false
+image:
+ url: "/img/code-validators/json-code-validator-formatter.jpg"
+ width: 1920
+ height: 675
 ---
 
 > Code syntax checkers and formatters are tools that any web developer should keep close. Code syntax validation and code formatting are tasks that are part of all developers workflow. 

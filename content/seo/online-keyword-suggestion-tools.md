@@ -5,6 +5,10 @@ date: 2018-06-06
 author: John Negoita
 authorLink: https://twitter.com/codingdudecom
 category: seo
+image:
+ url: "/img/online-keyword-research/new-ubersuggest.png"
+ width: 1600
+ height: 440
 ---
 
 Here's the truth:
@@ -57,11 +61,13 @@ So, which is the best keyword suggestion tool for free online use? I will let yo
 
 ## 1. Ubersuggest (Neil Patel) - Free Keyword Tool, Generate More Suggestions ##
 
+*UPDATE:* In March of 2019 Ubersuggest updated with some fantastic tools. [Ubersuggest Backlinks](https://app.neilpatel.com/en/seo_analyzer/backlinks?domain=freeitsolutions.com&country=us) shows backlinks of domain and URL for free. Also, the [Keywords Traffic Analyzer Tool](https://app.neilpatel.com/en/traffic_analyzer/keywords?domain=freeitsolutions.com&country=us) got even better.
+
 *UPDATE:* As of October 2018, Ubersuggest has changed its interface and the way it works. I can't really tell if the changes made are final or if the online keyword tool is in the final version.
 
-### The New Ubersuggest 2018 ###
+### The New Ubersuggest 2018 (and 2019) ###
 
-![New Ubersuggest Keyword Research Online 2018](/img/online-keyword-research/new-ubersuggest.png)
+![New Ubersuggest Keyword Research Online 2018 And 2019](/img/online-keyword-research/new-ubersuggest.png)
 
 The new Ubersuggest online keyword suggestion and SEO tool offers 3 main features:
 
