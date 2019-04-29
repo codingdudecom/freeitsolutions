@@ -211,6 +211,7 @@ I don't particullary like these sites (you might imagine why), so I will not lis
 7. ZippyShare *abuse@zippyshare.com*
 8. UsersCloud *userscloud.copyright@gmail.com*
 9. ZoFile *dmca@zofile.com*
+10. FileBlade *dmca@fileblade.com*
 
 I have personally used these adresses for successufully reporting DMCA copyright infringements.
 
