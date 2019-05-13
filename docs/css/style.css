@@ -50,6 +50,14 @@
   list-style: square;
 }
 
+.block p b,.block p strong{
+  color:#444;
+}
+
+blockquote p b,blockquote p strong{
+  color:inherit!important;
+}
+
 .post .post-info-wrapper p{
   text-align: center!important;
 }
