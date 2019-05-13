@@ -20,14 +20,18 @@ publishDir = "docs"
   #  url = "/service"
   [[menu.header]]
     weight = 4
-    name = "SEO"
-    url = "/seo"  
+    name = "Photoshop"
+    url = "/photoshop"
   [[menu.header]]
-    weight = 4
+    weight = 5
+    name = "SEO"
+    url = "/seo"      
+  [[menu.header]]
+    weight = 6
     name = "Web Development"
     url = "/web-development"      
   [[menu.header]]
-    weight = 5
+    weight = 7
     name = "Contact"
     url = "/contact"
 
@@ -69,6 +73,10 @@ publishDir = "docs"
     subtitle = "For every problem there is a solution. We gather free online solutions for various problems and offer them to yo for free"
 
     [[params.slider.button]]
+      label = "Photoshop Resources"
+      url = "/photoshop/"
+
+    [[params.slider.button]]
       label = "SEO Solutions"
       url = "/seo/"
 
@@ -86,6 +94,11 @@ publishDir = "docs"
     enable = true
     title = "Get The Latest On What We're doing"
     subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.photoshop]
+    enable = true
+    title = "Photoshop Resources"
+    subtitle = "Here's a list of Photoshop resources you can use for free"
 
   [params.seo]
     enable = true

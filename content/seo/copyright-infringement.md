@@ -3,7 +3,7 @@ title: "3 Effective Methods To Deal With Copyright Infringement In 2019"
 description: "Copyright infringement is a growing concern today. Has your content been stolen? See how to find out and how to effectively deal with situations in which your content has been stolen."
 date: 2019-04-21
 author: John Negoita
-authorLink: https://twitter.com/codingdudecom
+authorLink: http://www.coding-dude.com/
 category: seo
 image: 
   url: "/img/copyright-infringement/copyright-infringement.jpg"

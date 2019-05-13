@@ -11,6 +11,22 @@
 
 	<main>
 		{{partial "loop.html" .}}
+
+	<div class="post">
+	  <!-- Wrapper Start -->
+	  <section id="intro" style="border: 1px dotted #ddd;">
+	    <div class="container">
+	      <div class="row">
+	        <div>
+	          <div class="block">
+	          <div class="share"></div>
+	    		<p>{{ .Content }}</p>	
+	    	  </div>
+	        </div><!-- .col-md-7 close -->
+	      </div>
+	    </div>
+	  </section>
+	</div>	
 	</main>
 
 	{{ partial "footer.html" . }}

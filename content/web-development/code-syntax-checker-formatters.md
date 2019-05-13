@@ -3,7 +3,7 @@ title: "Online Code Syntax Checkers and Formatters"
 description: "Code syntax checkers and formatters are tools that any web developer should keep close. Code syntax validation and code formatting are tasks that are part of all developers workflow"
 date: 2018-07-12
 author: John Negoita
-authorLink: https://twitter.com/codingdudecom
+authorLink: http://www.coding-dude.com/
 category: web-development
 image:
  url: "/img/code-validators/json-code-validator-formatter.jpg"
