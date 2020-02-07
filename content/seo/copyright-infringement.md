@@ -75,7 +75,7 @@ Simply go to Google, switch to image search. Either drag and drop your original 
 
 #### Watermark Your Photos ####
 
-<a href="https://www.mockofun.com/tutorials/watermark-photos/">![Watermark Photos Online](/img/copyright-infringement/watermark-photos-online-mockofun.jpg)</a>
+<a href="https://www.mockofun.com/tutorials/watermark-photos/"><img alt="Watermark Photos Online" src="/img/copyright-infringement/watermark-photos-online-mockofun.jpg" style="height: 350px;width: auto;display: inline;float: left;padding: 20px;" /></a>
 
 If don't want or don't know how to deal with copyright infringements for photos and images, the best solution is to add a watermark to your photos. You can use graphic design tools like [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/) or even online tools like [MockoFun](https://www.mockofun.com).
 
