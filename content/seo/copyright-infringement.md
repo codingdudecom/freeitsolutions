@@ -1,7 +1,7 @@
 ---
 title: "3 Effective Methods To Deal With Copyright Infringement In 2019"
 description: "Copyright infringement is a growing concern today. Has your content been stolen? See how to find out and how to effectively deal with situations in which your content has been stolen."
-date: 2019-04-21
+date: 2020-02-07
 author: John Negoita
 authorLink: http://www.coding-dude.com/
 category: seo
@@ -72,6 +72,16 @@ To find if your images have been stolen or are distributed without permission yo
 ![Google Search By Image](/img/copyright-infringement/google-search-by-image.jpg)
 
 Simply go to Google, switch to image search. Either drag and drop your original image onto the search bar or click the Search By Image icon and input the URL of the image or upload the image you want to search. Google will try and find identical or similar images to yours. You will have to spot which images are copyright infringements.
+
+#### Watermark Your Photos ####
+
+<a href="https://www.mockofun.com/tutorials/watermark-photos/">![Watermark Photos Online](/img/copyright-infringement/watermark-photos-online-mockofun.jpg)</a>
+
+If don't want or don't know how to deal with copyright infringements for photos and images, the best solution is to add a watermark to your photos. You can use graphic design tools like [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/) or even online tools like [MockoFun](https://www.mockofun.com).
+
+I love MockoFun because it's online and they have loads of pre-made templates for watermarks. Check out this complete guide on how to [watermark photos online](https://www.mockofun.com/tutorials/watermark-photos/) using MockoFun.
+
+You can easily place your logo or name over photos that you publish online. This will discourage copyright infringements for your images and will also help you when reporing a copyright infringement as evidence that an image belongs to you.
 
 ### How To Get Notified When Somebody Steals Your Content ###
 
