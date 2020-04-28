@@ -1,5 +1,5 @@
 +++
-title = "Where to Learn Photoshop for Free in 2019?"
+title = "Where to Learn Photoshop for Free in 2020?"
 id = "photoshop"
 layout = "single"
 description = "How and where to learn Photoshop for free in 2019? The absolute best way to learn Photoshop for free in 2019 is still through Photoshop tutorials. Here's my list of websites from where to learn Photoshop for free if you are a beginner."
