@@ -2,8 +2,8 @@
 title = "Where to Learn Photoshop for Free in 2020?"
 id = "photoshop"
 layout = "single"
-description = "How and where to learn Photoshop for free in 2019? The absolute best way to learn Photoshop for free in 2019 is still through Photoshop tutorials. Here's my list of websites from where to learn Photoshop for free if you are a beginner."
-date = 2019-05-13
+description = "How and where to learn Photoshop for free in 2020? The absolute best way to learn Photoshop for free in 2020 is still through Photoshop tutorials. Here's my list of websites from where to learn Photoshop for free if you are a beginner."
+date = 2020-04-28
 author = "John Negoita"
 authorLink = "http://www.coding-dude.com/"
 [image]
@@ -15,7 +15,7 @@ height = 459
 
 <img src="/img/photoshop/learn-photoshop-free.jpg" alt="Learn Photoshop Free" style="padding:0">
 
-> The absolute best way to learn Photoshop for free in 2019 is still through **Photoshop tutorials**. Practice these tutorials, use and create Photoshop resources and you will likely become a master of Adobe Photoshop.
+> The absolute best way to learn Photoshop for free in 2020 is still through **Photoshop tutorials**. Practice these tutorials, use and create Photoshop resources and you will likely become a master of Adobe Photoshop.
 
 
 
