@@ -45,7 +45,7 @@ Please note that most of these websites have a category called **Basics** and th
 
 [![PSD Dude - Photoshop Tutorials &amp; Resources](/img/photoshop/psddude.jpg)](http://www.psd-dude.com)
 
-You can start with these excellent free [Photoshop beginners tutorials](http://www.psd-dude.com/tutorials/?category=Basics) and move on to the more advanced tutorials.
+You can start with these excellent free [Photoshop beginners tutorials](http://www.psd-dude.com/tutorials/?category=Basics) and move on to the more advanced tutorials. For example, if you want to learn things like how to <a href="http://www.psd-dude.com/tutorials/draw-a-line-in-photoshop.aspx">draw a line in Photoshop</a>, PSDDude is the place to go.
 
 Also the free Photoshop actions that you can download are a must, PSDDude Photoshop actions are really high quality.
 
