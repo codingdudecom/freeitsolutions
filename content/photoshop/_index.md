@@ -121,3 +121,10 @@ You can learn Photoshop for free.
 Keep this list close and visit the sites and you will get better with Photoshop. 
 
 If you found this list useful, please feel free to share it through your websites, blogs, Facebook, Twitter, email and more...
+
+
+## Featured Photoshop Tutorials ##
+
+
+### [Pop Art Photoshop Tutorial](http://www.psd-dude.com/tutorials/pop-art-photoshop.aspx) ###
+[![Pop Art Photoshop](/img/photoshop/pop-art-photoshop-tutorial.jpg)](http://www.psd-dude.com/tutorials/pop-art-photoshop.aspx)
