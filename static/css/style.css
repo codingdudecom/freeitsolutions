@@ -142,3 +142,10 @@ h3 {
   opacity: 0.5;
   text-transform: uppercase;
 }
+
+#intro .block img{
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
