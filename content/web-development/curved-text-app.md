@@ -53,3 +53,8 @@ The curved text can be downloaded as an image:
 - JPG (small size)
 - PNG (curved text with transparent background)
 - PDF (for printing)
+- SVG (vector format)
+
+### Conclusion
+
+So, if you need to create a stamp, round logo, [name design](https://medium.com/@iris.atlanttida/name-design-53b1ae076a32) or any kind of graphic design that includes curved text, MockoFun is the best curved text generator.
