@@ -21,19 +21,19 @@ publishDir = "docs"
   [[menu.header]]
     weight = 4
     name = "Photoshop"
-    url = "/photoshop"
+    url = "/photoshop/"
   [[menu.header]]
     weight = 5
     name = "SEO"
-    url = "/seo"      
+    url = "/seo/"      
   [[menu.header]]
     weight = 6
     name = "Web Development"
-    url = "/web-development"      
+    url = "/web-development/"      
   [[menu.header]]
     weight = 7
     name = "Contact"
-    url = "/contact"
+    url = "/contact/"
 
   [[menu.footer]]
     weight = 1
@@ -42,11 +42,11 @@ publishDir = "docs"
   [[menu.footer]]
     weight = 2
     name = "Contact us"
-    url = "#"
-  #[[menu.footer]]
-  #  weight = 3
-  #  name = "How it works"
-  #  url = "#"
+    url = "/contact/"
+  [[menu.footer]]
+    weight = 3
+    name = "Useful Links"
+    url = "/links/"
   #[[menu.footer]]
   #  weight = 4
   #  name = "Blog"
