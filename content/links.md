@@ -25,3 +25,6 @@ title = "Useful Links"
 >1. [How to Digitize a Drawing - Pixiv](https://www.pixiv.net/en/artworks/74848248)
 >1. [Coloring Name - Bloglovin](https://www.bloglovin.com/@love4design/coloring-name)
 >1. [Word Coloring Pages - Substack](https://designeasy.substack.com/p/word-coloring-pages)
+>1. [Selective Color Photoshop Action - Quora](https://graphicdesignfreebies.quora.com/FREE-Selective-Color-Photoshop-Action)
+
+[Github Links](https://github.com/codingdudecom/freeitsolutions/blob/master/content/links.md)
