@@ -4,6 +4,7 @@ title = "Useful Links"
 
 ># Useful Links
 >In this page I'm listing **links to useful resources**.
+>1. [Heart Text Symbol](https://medium.com/@iris.atlanttida/heart-text-symbol-ccdfa85b35a6)
 >1. [Livejournal Page](https://mockofun.livejournal.com/)
 >1. [Hatena Bookmarks](https://b.hatena.ne.jp/codingdude/bookmark)
 >1. [Goodreads Profile](https://www.goodreads.com/user/show/132270579-psddude)
