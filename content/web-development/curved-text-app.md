@@ -19,6 +19,8 @@ In this short article I will show you a curved text app called [MockoFun](https:
 
 Let's start!
 
+[![Curve Text Generator](https://img.youtube.com/vi/-rapX6WRL-U/0.jpg)](https://www.youtube.com/watch?v=-rapX6WRL-U)
+
 ### Step 1 - Login in MockoFun for free
 
 You can register for a free account in MockoFun with just a few clicks. Either register with your email address or login directly with the Google Sign In button.
