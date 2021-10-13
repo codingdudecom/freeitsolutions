@@ -27,6 +27,7 @@ So, let's dig into our list of formatters and syntax checkers for web developers
 5. [JS Hint](http://jshint.com/) - JavaScript Syntax Checker
 6. [SQL Formatter](https://sqlformat.org/) - Format SQL statements
 
+I user most of these tools almost on a daily basis for my job as a programmer. Also, I find then extremely useful especially when I write my [coding tutorial](http://www.coding-dude.com/).
 
 Now that you have this list, don't forget to bookmark this page. You can come back to it anytime you need a list with the best formatters and validators online. Let's take a quick look at the code formatters and validators and see what they do.
 
