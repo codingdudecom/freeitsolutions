@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/codingdudecom/freeitsolutions#readme",
   "devDependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.5.2",
     "string": "^3.3.3",
     "toml": "^2.3.3",
     "yamljs": "^0.3.0"
