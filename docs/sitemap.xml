@@ -6,7 +6,10 @@
     <loc>http://www.freeitsolutions.com/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url>
-  
+  <url>
+    <loc>https://www.freeitsolutions.com/about-mockofun/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url> 
   <url>
     <loc>http://www.freeitsolutions.com/web-development/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
@@ -40,11 +43,6 @@
   <url>
     <loc>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.freeitsolutions.com/web-development/site-perfomance-optimization-tools/</loc>
-    <lastmod>2018-06-14T17:08:29+03:00</lastmod>
   </url>
   
   <url>
