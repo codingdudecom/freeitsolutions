@@ -40,6 +40,7 @@ title = "Useful Links"
 >1. [/links/docker-mockofun/](https://www.freeitsolutions.com/links/docker-mockofun/)
 >1. [/links/spotify-mockofun/](https://www.freeitsolutions.com/links/spotify-mockofun/)
 >1. [/links/reverbnation/](https://www.freeitsolutions.com/links/reverbnation/)
->1. [/links/diigo-movie-poster/](https://www.freeitsolutions.com/links/diigo-movie-poster/)'/links/diigo/':'https://www.diigo.com/user/textures4ps'
+>1. [/links/diigo-movie-poster/](https://www.freeitsolutions.com/links/diigo-movie-poster/)
+>1. [/links/diigo/](https://www.diigo.com/user/textures4ps)
 
 [Github Links](https://github.com/codingdudecom/freeitsolutions/blob/master/content/links.md)
