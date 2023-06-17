@@ -6,10 +6,22 @@
     <description>Recent content on Free IT Solutions - online solutions for IT problems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.freeitsolutions.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online Code Syntax Checkers and Formatters</title>
+      <link>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</guid>
+      <description>Code syntax checkers and formatters are tools that any web developer should keep close. Code syntax validation and code formatting are tasks that are part of all developers workflow.
+ Image Made with MockoFun Stencil Maker
+You know how it is,
+Either you take over code written by somebody else, or code is generated from various applications. Manual source code review is not really fun. Even if you know how to fix syntax errors, wouldn&amp;rsquo;t it be more efficient to let an automated tool do it?</description>
+    </item>
     
     <item>
       <title>Host A Website For Free</title>
@@ -49,14 +61,13 @@ Step 1 - Login in MockoFun for free You can register for a free account in Mocko
     </item>
     
     <item>
-      <title>Online Code Syntax Checkers and Formatters</title>
-      <link>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Site Perfomance Optimization Tools</title>
+      <link>http://www.freeitsolutions.com/web-development/site-perfomance-optimization-tools/</link>
+      <pubDate>Thu, 14 Jun 2018 17:08:29 +0300</pubDate>
       
-      <guid>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</guid>
-      <description>Code syntax checkers and formatters are tools that any web developer should keep close. Code syntax validation and code formatting are tasks that are part of all developers workflow.
- You know how it is,
-Either you take over code written by somebody else, or code is generated from various applications. Manual source code review is not really fun. Even if you know how to fix syntax errors, wouldn&amp;rsquo;t it be more efficient to let an automated tool do it?</description>
+      <guid>http://www.freeitsolutions.com/web-development/site-perfomance-optimization-tools/</guid>
+      <description>Google PageSpeed Insights https://developers.google.com/speed/pagespeed/insights/
+Pingdom Website Speed Test https://tools.pingdom.com</description>
     </item>
     
     <item>
@@ -86,7 +97,7 @@ Either you take over code written by somebody else, or code is generated from va
       
       <guid>http://www.freeitsolutions.com/links/</guid>
       <description>Useful Links In this page I&amp;rsquo;m listing links to useful resources.
- Name Design Lettering Design   Github Links</description>
+ Name Design Lettering Design /links/livejournal/ /links/hatena/ /links/adobe-question-fonts/ /links/slashdot-textures/ /links/github-texteditor/ /links/intensedebate/ /links/steemit-write-name-online/ /links/steemit-good-memes/ /links/ko-fi-vectorart /links/booth-mockofun/ /links/pixiv-mockofun/ /links/netflix-cc/ /links/nickname-generator-cc/ /links/allmyfaves/ /links/blogger-1/ /links/vingle-joana/ /links/justpasteit/ /links/mockofun-carrd/ /links/chocolatey-mockofun/ /links/contently-mockofun/ /links/microsoft-mockofun-1/ /links/microsoft-mockofun-2/ /links/microsoft-mockofun-3/ /links/imdb-1/ /links/netvibes-1/ /links/shutterstock-mockofun/ /links/mockofun-un/ /links/disqus-mockofun/ /links/twitch-1/ /links/flickr-dslrtips/ /links/patreon-psddude/ /links/docker-mockofun/ /links/spotify-mockofun/ /links/reverbnation/ /links/diigo-movie-poster/ /links/diigo/   Github Links</description>
     </item>
     
   </channel>

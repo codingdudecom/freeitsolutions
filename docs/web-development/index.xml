@@ -6,10 +6,22 @@
     <description>Recent content in Free Online Tools For Web Development on Free IT Solutions - online solutions for IT problems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.freeitsolutions.com/web-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online Code Syntax Checkers and Formatters</title>
+      <link>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</guid>
+      <description>Code syntax checkers and formatters are tools that any web developer should keep close. Code syntax validation and code formatting are tasks that are part of all developers workflow.
+ Image Made with MockoFun Stencil Maker
+You know how it is,
+Either you take over code written by somebody else, or code is generated from various applications. Manual source code review is not really fun. Even if you know how to fix syntax errors, wouldn&amp;rsquo;t it be more efficient to let an automated tool do it?</description>
+    </item>
     
     <item>
       <title>Host A Website For Free</title>
@@ -38,14 +50,13 @@ Step 1 - Login in MockoFun for free You can register for a free account in Mocko
     </item>
     
     <item>
-      <title>Online Code Syntax Checkers and Formatters</title>
-      <link>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Site Perfomance Optimization Tools</title>
+      <link>http://www.freeitsolutions.com/web-development/site-perfomance-optimization-tools/</link>
+      <pubDate>Thu, 14 Jun 2018 17:08:29 +0300</pubDate>
       
-      <guid>http://www.freeitsolutions.com/web-development/code-syntax-checker-formatters/</guid>
-      <description>Code syntax checkers and formatters are tools that any web developer should keep close. Code syntax validation and code formatting are tasks that are part of all developers workflow.
- You know how it is,
-Either you take over code written by somebody else, or code is generated from various applications. Manual source code review is not really fun. Even if you know how to fix syntax errors, wouldn&amp;rsquo;t it be more efficient to let an automated tool do it?</description>
+      <guid>http://www.freeitsolutions.com/web-development/site-perfomance-optimization-tools/</guid>
+      <description>Google PageSpeed Insights https://developers.google.com/speed/pagespeed/insights/
+Pingdom Website Speed Test https://tools.pingdom.com</description>
     </item>
     
   </channel>
