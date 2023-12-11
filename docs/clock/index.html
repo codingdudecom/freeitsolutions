@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>FreeITSolutions Clock</title>
+  <style>:root{
+  display:flex;
+  height:100vh;
+  justify-content:center;
+  align-items:center;
+}
+.clock{
+  
+  text-align:center;
+  margin:0.2em;
+  display:inline-blbock;
+  font-family:sans-serif;
+  font-size:min(30vh,6vw);
+  
+}
+.date{
+  font-size:0.5em;
+}
+.time{
+  font-size:2em;
+  background:black;
+  color:white;
+  padding:0.2em;
+  border-radius:0.2em;
+}
+.hr:after,.min:after{
+  content:":";
+}
+
+.referer-warning{
+  display:none!important;
+}</style>
+</head>
+<body>
+
+<div class="clock">
+<div class="date"></div>
+<div class="time">
+  <span class="hr"></span><span class="min"></span><span class="sec"></span>
+</div>
+</div>
+
+  <script>// execute function clock()
+clock();
+
+// execute function clock() every 1 second
+// 1000 milliseconds = 1 second
+setInterval( clock, 1000 );
+
+function clock() {
+  
+  // a crete date object
+  var d = new Date();
+  
+  // get year
+  var year = d.getFullYear().toString().padStart(2, '0');
+  
+  // get month - from 0 to 11
+  var month = ( d.getMonth() + 1 ).toString().padStart(2, '0');
+  
+  // get day of the month - from 1 to 31
+  var day = d.getDate().toString().padStart(2, '0');
+  
+  // get day of the week - from 0 to 6
+  // get name of the weekday, 0 = Sunday, 1 = Monday, 2 = Tuesday, ...
+  switch ( d.getDay() ) {
+    case 1: 
+      var weekDay = 'MON'; break;
+    case 2: 
+      var weekDay = 'TUE'; break;
+    case 3: 
+      var weekDay = 'WED'; break;
+    case 4: 
+      var weekDay = 'THU'; break;
+    case 5: 
+      var weekDay = 'FRI'; break;
+    case 6: 
+      var weekDay = 'SAT'; break;
+    case 0: 
+      var weekDay = 'SUN'; break;
+  }
+  
+  // add leading zero
+  var hr = d.getHours().toString().padStart(2, '0');
+  var min = d.getMinutes().toString().padStart(2, '0');
+  var sec = d.getSeconds().toString().padStart(2, '0');
+  
+  // set content of date
+  document.querySelector('.date').innerHTML = year + '-' + month + '-' + day + ' ' + weekDay;
+  
+  // set content of hour
+  document.querySelector('.hr').innerHTML = hr;
+  
+  // set content of minute
+  document.querySelector('.min').innerHTML = min;
+  
+  // set content of second
+  document.querySelector('.sec').innerHTML = sec;
+}</script>
+</body>
+</html>
+
+
