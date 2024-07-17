@@ -1,5 +1,5 @@
 # Free Solutions For IT Problems freeitsolutions.com
-[Free IT Solutions Website](http://www.freeitsolutions.com)
+[Free IT Solutions Website](https://www.freeitsolutions.com)
 
 ## About this project
 
@@ -16,8 +16,8 @@ I'm still adding to the list, so stay tuned.
 
 ## Graphic resources offered by
 - **PhotoshopSupply**: [Free Photoshop Resources For Graphic Designers](https://www.photoshopsupply.com/)
-- **PSDDude**: [Photoshop Tutorials & Resources](http://www.psd-dude.com/)
-- **Textures4Photoshop** [High Quality Textures for Free](http://www.textures4photoshop.com/)
+- **PSDDude**: [Photoshop Tutorials & Resources](https://www.psd-dude.com/)
+- **Textures4Photoshop** [High Quality Textures for Free](https://www.textures4photoshop.com/)
 
 ## LICENSE
 
