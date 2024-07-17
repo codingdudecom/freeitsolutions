@@ -5,7 +5,7 @@ layout = "single"
 description = "How and where to learn Photoshop for free in 2020? The absolute best way to learn Photoshop for free in 2020 is still through Photoshop tutorials. Here's my list of websites from where to learn Photoshop for free if you are a beginner."
 date = 2020-04-28
 author = "John Negoita"
-authorLink = "http://www.coding-dude.com/"
+authorLink = "https://www.coding-dude.com/"
 [image]
 url = "/img/photoshop/learn-photoshop-free.jpg"
 width = 960
@@ -41,11 +41,11 @@ They have high quality content that is perfect for Photoshop projects being phot
 Please note that most of these websites have a category called **Basics** and that's where you should start if you are a beginner.
 
 
-### 1. [PSD Dude - Photoshop Tutorials &amp; Resources](http://www.psd-dude.com) ###
+### 1. [PSD Dude - Photoshop Tutorials &amp; Resources](https://www.psd-dude.com) ###
 
-[![PSD Dude - Photoshop Tutorials &amp; Resources](/img/photoshop/psddude.jpg)](http://www.psd-dude.com)
+[![PSD Dude - Photoshop Tutorials &amp; Resources](/img/photoshop/psddude.jpg)](https://www.psd-dude.com)
 
-You can start with these excellent free [Photoshop beginners tutorials](http://www.psd-dude.com/tutorials/?category=Basics) and move on to the more advanced tutorials. For example, if you want to learn things like how to <a href="http://www.psd-dude.com/tutorials/draw-a-line-in-photoshop.aspx">draw a line in Photoshop</a>, PSDDude is the place to go.
+You can start with these excellent free [Photoshop beginners tutorials](https://www.psd-dude.com/tutorials/?category=Basics) and move on to the more advanced tutorials. For example, if you want to learn things like how to <a href="https://www.psd-dude.com/tutorials/draw-a-line-in-photoshop.aspx">draw a line in Photoshop</a>, PSDDude is the place to go.
 
 Also the free Photoshop actions that you can download are a must, PSDDude Photoshop actions are really high quality.
 
@@ -96,9 +96,9 @@ The *PhotoshopSupply.com* website is relatively new, but it should get your atte
 
 This site provides top quality free Photoshop resources for graphic designers. I would pay special attention to their free [**Photoshop mockups section**](https://www.photoshopsupply.com/category/mockups), but also the free Photoshop brushes, free Photoshop actions, free PSD patterns and templates, free vector shapes and free brushes.
 
-### 2. [Textures4Photoshop - High Quality Textures for Free](http://www.textures4photoshop.com) ###
+### 2. [Textures4Photoshop - High Quality Textures for Free](https://www.textures4photoshop.com) ###
 
-[![Textures4Photoshop - High Quality Textures for Free](/img/photoshop/textures4photoshop.png)](http://www.textures4photoshop.com)
+[![Textures4Photoshop - High Quality Textures for Free](/img/photoshop/textures4photoshop.png)](https://www.textures4photoshop.com)
 
 Trust me:
 
@@ -112,7 +112,7 @@ I simply love this website, it has tons of free and awesome textures that you wi
 
 All textures are unique and very well crafted. The site contains not only free Photoshop textures, but also patterns (seamless and non-seamless).
 
-Another thing is the amazing tool called [Textturizer](http://www.textures4photoshop.com/textturizer/), which is an **online text effect generator** that is pretty unique. It has lots of text effect presets, but you can also customize it and use in combination the free Photoshop textures available on the website.
+Another thing is the amazing tool called [Textturizer](https://www.textures4photoshop.com/textturizer/), which is an **online text effect generator** that is pretty unique. It has lots of text effect presets, but you can also customize it and use in combination the free Photoshop textures available on the website.
 
 ## Conclusion ##
 
@@ -126,5 +126,5 @@ If you found this list useful, please feel free to share it through your website
 ## Featured Photoshop Tutorials ##
 
 
-### [Pop Art Photoshop Tutorial](http://www.psd-dude.com/tutorials/pop-art-photoshop.aspx) ###
-[![Pop Art Photoshop](/img/photoshop/pop-art-photoshop-tutorial.jpg)](http://www.psd-dude.com/tutorials/pop-art-photoshop.aspx)
+### [Pop Art Photoshop Tutorial](https://www.psd-dude.com/tutorials/pop-art-photoshop.aspx) ###
+[![Pop Art Photoshop](/img/photoshop/pop-art-photoshop-tutorial.jpg)](https://www.psd-dude.com/tutorials/pop-art-photoshop.aspx)
