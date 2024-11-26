@@ -30,6 +30,7 @@ So, let's dig into our list of formatters and syntax checkers for web developers
 4. [PHP Code Syntax Checker](https://phpcodechecker.com/) - Check Syntax for PHP Code
 5. [JS Hint](http://jshint.com/) - JavaScript Syntax Checker
 6. [SQL Formatter](https://sqlformat.org/) - Format SQL statements
+7. [SQL Validator](https://softwium.com/sql-validator/) - SQL Syntax Checker
 
 I user most of these tools almost on a daily basis for my job as a programmer. Also, I find then extremely useful especially when I write my [coding tutorial](http://www.coding-dude.com/).
 
@@ -83,3 +84,11 @@ Additionally, you can toggle specific options in the Configure menu.
 [SQL Formatter](https://sqlformat.org/) is a free online formatter for SQL statements. Enter your SQL statement in the textarea and click *Format SQL*. To upload a file use the button right below the textarea.
 
 In addition to the web interface SQLFormat provides an API. Or you can download the Python module that powers this service to use it in your own applications.
+
+## 7. SQL Validator ##
+
+![sql syntax checker](/img/code-validators/sql-validator.png)
+
+[Softwium](https://softwium.com/sql-validator/) is a SQL syntax checker. It is a tool that helps detect SQL syntax errors and also allows formatting of SQL statements.
+
+Besides the web interface, Softwium also offers an API.
